@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MikeMooly.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MikeMooly_ipad.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MikeMooly_ipad_lite.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MikeMooly_iphone_lite.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5FC20B4E1570CBBB004C91D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5FC21D231570D43F004C91D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5FC2202D1570D550004C91D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC98EE9C1485039500951032</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

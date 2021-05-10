@@ -1,0 +1,140 @@
+<BlockTemplate>
+    <BLOCK>
+        <Name>DEFAULT</Name>
+        <HP>1</HP>
+        <SCORE>100</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block1_break1"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block1_stay1"></STATE>
+        
+        <STATE  id = "DAMAGE"   category = "2" value = "block1_break2"></STATE>
+        <STATE  id = "STAY"     category = "2" value = "block1_stay2"></STATE>
+        
+        <STATE  id = "DAMAGE"   category = "3" value = "block1_break3"></STATE>
+        <STATE  id = "STAY"     category = "3" value = "block1_stay3"></STATE>
+    
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>SWITCH</Name> <!-- 한번만에 부서지고 박스를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>100</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "switch_on"></STATE>
+        
+    </BLOCK>
+    
+    
+    <BLOCK>
+        <Name>BOX1</Name> <!-- 한번만에 부서지고 박스를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>100</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_box"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>BLOCK1</Name> <!-- 한번만에 부서지고 블럭를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>100</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+    
+        <STATE  id = "DAMAGE"   category = "1" value = "block1_block"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block1_stay1"></STATE>
+    </BLOCK>
+
+    <BLOCK>
+        <Name>DPBP111</Name> <!-- 한번만에 부서지고 DPBP11을 내놓음 -->
+        <HP>1</HP>
+        <SCORE>100</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_DPBP11"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>LIFE1</Name> <!-- 한번만에 부서지고 라이프를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>120</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_life"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>HP1</Name> <!-- 한번만에 부서지고 하트를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>80</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_hp"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>BANANA1</Name> <!-- 한번만에 부서지고 하트를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>30</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_banana"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>SOUL1</Name> <!-- 한번만에 부서지고 소울을 내놓음 -->
+        <HP>1</HP>
+        <SCORE>30</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block1_soul"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block1_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>PORTAL1</Name> <!-- 한번만에 부서지고 포탈1을 내놓음 -->
+        <HP>1</HP>
+        <SCORE>80</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_portal1"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>PORTAL2</Name> <!-- 한번만에 부서지고 포탈2를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>80</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_portal2"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>PORTAL3</Name> <!-- 한번만에 부서지고 포탈1을 내놓음 -->
+        <HP>1</HP>
+        <SCORE>80</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_portal3"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+    <BLOCK>
+        <Name>PORTAL4</Name> <!-- 한번만에 부서지고 포탈2를 내놓음 -->
+        <HP>1</HP>
+        <SCORE>80</SCORE>
+        <PORTAL id ="DEFAULT"></PORTAL>
+        
+        <STATE  id = "DAMAGE"   category = "1" value = "block2_portal4"></STATE>
+        <STATE  id = "STAY"     category = "1" value = "block2_stay1"></STATE>
+    </BLOCK>
+    
+</BlockTemplate> 

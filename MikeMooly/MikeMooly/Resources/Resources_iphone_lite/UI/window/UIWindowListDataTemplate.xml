@@ -1,0 +1,58 @@
+<WindowListDataTemplate>
+    <WindowList>
+        <Name>GameMainWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>PausedWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>TitleWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>StageSelectWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>StageStartWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>StageClearWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>CreditWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>GameOverWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>ContinueWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>OptionWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>MainOptionWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>ControlLeftWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>ControlRightWindow</Name>
+    </WindowList>
+    
+    <WindowList>
+        <Name>SceneEventWindow</Name>
+    </WindowList>
+    
+</WindowListDataTemplate> 

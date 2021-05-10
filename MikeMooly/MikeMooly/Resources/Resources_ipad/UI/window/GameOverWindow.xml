@@ -1,0 +1,33 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>GameOverWindow</Name>
+        
+        <!--
+        <CONTROL id = "yes" type = "button" img1 = "arrow_right.png" img2 = "arrow_right.png" x = "400" y = "70" z = "5" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        -->    
+        
+        <CONTROL id = "no" type = "button" img1 = "arrow_left.png" img2 = "arrow_left.png" x = "80" y = "80" z = "5" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <!--
+        <CONTROL id = "continue_count" type = "label" x = "437" y = "258" z = "5" 
+            anchor_x = "0.5" anchor_y = "0" fnt_file = "plump_20.fnt" default = "0"
+            r = "255" g = "255" b = "255"></CONTROL>
+        -->
+        
+        <CONTROL id = "gameover_" type = "label" x = "240" y = "206" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "GAME OVER"
+            r = "255" g = "255" b = "255"></CONTROL>
+
+        <CONTROL id = "continue_yes" type = "label" x = "400" y = "110" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Painful life"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "continue_no" type = "label" x = "80" y = "110" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Heaven or Hell"
+            r = "255" g = "255" b = "255"></CONTROL>
+ 
+    </Window>
+</WindowDataTemplate> 
+

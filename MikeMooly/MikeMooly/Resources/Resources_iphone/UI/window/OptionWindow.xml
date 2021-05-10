@@ -1,0 +1,42 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>OptionWindow</Name>
+        
+        <CONTROL id = "menu1" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "445" y = "290" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "icon_main_menu_s" type = "sprite" img1 = "icon_main_menu_s.png" x = "445" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        <CONTROL id = "iconname_backtotitle1" type = "label" x = "445" y = "255" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "bar_stage_menu" type = "sprite" img1 = "bar_stage_menu.png" x = "240" y = "160" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "512" height = "384" ></CONTROL>
+        
+        
+        <CONTROL id = "option" type = "sprite" img1 = "option_title.png" x = "240" y = "210" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "167" height = "31" ></CONTROL>
+ 
+        <CONTROL id = "sound" type = "sprite" img1 = "sound.png" x = "100" y = "170" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "81" height = "18" ></CONTROL>
+       
+        
+        <CONTROL id = "bgm" type = "check_button" img1 = "bgm_off.png" img2 = "bgm_on.png" x = "110" y = "130" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "sfx" type = "check_button" img1 = "sfx_off.png" img2 = "sfx_on.png" x = "110" y = "100" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "controller_setting" type = "sprite" img1 = "controller_setting.png" x = "345" y = "170" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "231" height = "18" ></CONTROL>
+        
+        <CONTROL id = "controller_type1" type = "check_button" img1 = "controller_type1_off.png" img2 = "controller_type1_on.png" x = "280" y = "110" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "controller_type2" type = "check_button" img1 = "controller_type2_off.png" img2 = "controller_type2_on.png" x = "410" y = "110" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+    </Window>
+</WindowDataTemplate> 

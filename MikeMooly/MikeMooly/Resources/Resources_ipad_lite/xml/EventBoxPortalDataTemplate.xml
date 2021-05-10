@@ -1,0 +1,64 @@
+<EventBoxPortalTemplate>
+    
+    <EVENT_BOX_PORTAL>
+        <Name>DEFAULT</Name>
+        <TYPE>EVENT_BOX_POSITION</TYPE>
+        <MAP>farm_1</MAP>
+        <EVENT_BOX_POSITION>event_box_position1</EVENT_BOX_POSITION>
+        
+        <STATE  id = "READY"   category = "0" value = "portal_ready"></STATE>
+        <STATE  id = "STAY"    category = "0" value = "portal_active"></STATE>
+        
+    </EVENT_BOX_PORTAL>
+    
+    
+    <EVENT_BOX_PORTAL>
+        <Name>PORTAL1</Name>
+        <TYPE>EVENT_BOX_POSITION</TYPE>
+        <MAP>jungle_1</MAP>
+        <EVENT_BOX_POSITION>EXIT1</EVENT_BOX_POSITION>
+        
+        <STATE  id = "READY"   category = "0" value = "portal_ready"></STATE>
+        <STATE  id = "STAY"    category = "0" value = "portal_active"></STATE>
+        
+    </EVENT_BOX_PORTAL>
+    
+    <EVENT_BOX_PORTAL>
+        <Name>PORTAL2</Name>
+        <TYPE>EVENT_BOX_POSITION</TYPE>
+        <MAP>jungle_1</MAP>
+        <EVENT_BOX_POSITION>EXIT2</EVENT_BOX_POSITION>
+        
+        <STATE  id = "READY"   category = "0" value = "portal_ready"></STATE>
+        <STATE  id = "STAY"    category = "0" value = "portal_active"></STATE>
+        
+    </EVENT_BOX_PORTAL>
+    
+    <EVENT_BOX_PORTAL>
+        <Name>PORTAL3</Name>
+        <TYPE>EVENT_BOX_POSITION</TYPE>
+        <MAP>jungle_1</MAP>
+        <EVENT_BOX_POSITION>EXIT3</EVENT_BOX_POSITION>
+        
+        <STATE  id = "READY"   category = "0" value = "portal_ready"></STATE>
+        <STATE  id = "STAY"    category = "0" value = "portal_active"></STATE>
+        
+    </EVENT_BOX_PORTAL>
+    
+    <EVENT_BOX_PORTAL>
+        <Name>PORTAL4</Name>
+        <TYPE>EVENT_BOX_POSITION</TYPE>
+        <MAP>jungle_1</MAP>
+        <EVENT_BOX_POSITION>EXIT4</EVENT_BOX_POSITION>
+        
+        <STATE  id = "READY"   category = "0" value = "portal_ready"></STATE>
+        <STATE  id = "STAY"    category = "0" value = "portal_active"></STATE>
+        
+    </EVENT_BOX_PORTAL>
+    
+</EventBoxPortalTemplate> 
+
+<!-- 
+    TYPE : MAP , EVENT_BOX_POSITION
+ -->
+

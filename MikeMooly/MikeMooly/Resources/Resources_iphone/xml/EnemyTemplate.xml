@@ -1,0 +1,345 @@
+<EnemyData>
+    <Enemy>
+        <Name>DEFAULT</Name>
+        <AI_NAME>DEFAULT</AI_NAME>
+        <HP>1</HP>
+        <WALK_SPEED>140</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "STAY"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = "dpbp1_dying"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp1_dying"></STATE>
+        <STATE id = "ATTACK"    category = "0"  value = "dpbp1_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>FIRE</Name>
+        <AI_NAME>FIRE</AI_NAME>
+        <HP>1</HP>
+        <WALK_SPEED>140</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "trap_stay"></STATE>
+        <STATE id = "STAY"      category = "0"  value = "trap_stay"></STATE>
+
+    </Enemy>
+
+    <Enemy>
+        <Name>DP10</Name>
+        <AI_NAME>AI_1</AI_NAME><!-- 아무 행동도 하지 않음-->
+        <HP>1</HP>
+        <WALK_SPEED>0</WALK_SPEED>
+        <JUMP_MOVE_SPEED>0</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>0</JUMP_SPEED>
+        <JUMP2_SPEED>0</JUMP2_SPEED>
+        <BOUNCE_SPEED>0</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP11</Name>
+        <AI_NAME>AI_1</AI_NAME><!-- 앞으로 전진, 부딛치면 뒤로 돌아감-->
+        <HP>1</HP>
+        <WALK_SPEED>80</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp1_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP12</Name>
+        <AI_NAME>AI_2</AI_NAME><!-- 낭떠러지에서 뒤로 돌아감 -->
+        <HP>1</HP>
+        <WALK_SPEED>80</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp1_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP13</Name>
+        <AI_NAME>AI_3</AI_NAME><!-- 점프하면서 움직임, 낭떠러지 만나면 턴-->
+        <HP>1</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "dpbp1_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp1_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP20</Name>
+        <AI_NAME>AI_1</AI_NAME><!-- 아무 행동도 하지 않음-->
+        <HP>1</HP>
+        <WALK_SPEED>0</WALK_SPEED>
+        <JUMP_MOVE_SPEED>0</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>0</JUMP_SPEED>
+        <JUMP2_SPEED>0</JUMP2_SPEED>
+        <BOUNCE_SPEED>0</BOUNCE_SPEED>
+        <DEATH>0</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP21</Name>
+        <AI_NAME>AI_1</AI_NAME><!-- 앞으로 전진, 부딛치면 뒤로 돌아감-->
+        <HP>1</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>0</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp2_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp2_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP22</Name>
+        <AI_NAME>AI_2</AI_NAME><!-- 낭떠러지에서 뒤로 돌아감 -->
+        <HP>1</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>0</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp2_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp2_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>DP23</Name>
+        <AI_NAME>AI_3</AI_NAME><!-- 점프하면서 움직임, 낭떠러지 만나면 턴-->
+        <HP>1</HP>
+        <WALK_SPEED>110</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>0</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "WALK"      category = "0"  value = "dpbp2_walk"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "dpbp2_walk"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "dpbp2_walk"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "dpbp2_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dpbp2_dying"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>MCANNON1</Name>
+        <AI_NAME>AI_CANNON3</AI_NAME><!-- 컬링 레인지가 없는 슛 -->
+        <HP>3</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "cannon_shoot"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>CANNON1</Name>
+        <AI_NAME>AI_CANNON3</AI_NAME><!-- 컬링 레인지가 없는 슛 -->
+        <HP>3</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "mukiki_shoot"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>CANNON2</Name>
+        <AI_NAME>AI_CANNON4</AI_NAME><!-- 컬링 레이지가 있는 슛 -->
+        <HP>1</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>10</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "mukiki_shoot"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>CANNON3</Name>
+        <AI_NAME>AI_CANNON2</AI_NAME><!-- -->
+        <HP>3</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "mukiki_shoot"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>CANNON3L1</Name> <!-- 무키키 슛의 반대 방향용 임시 -->
+        <AI_NAME>AI_CANNON2</AI_NAME>
+        <HP>3</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "shoot_l1"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>CANNON3R1</Name> <!-- 무키키 슛의 반대 방향용 임시 -->
+        <AI_NAME>AI_CANNON2</AI_NAME>
+        <HP>3</HP>
+        <WALK_SPEED>100</WALK_SPEED>
+        <JUMP_MOVE_SPEED>100</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>550</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>100</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "shoot_r1"></STATE>
+    </Enemy>
+
+    <Enemy>
+        <Name>MUKUKI1</Name>
+        <AI_NAME>AI_MUKIKI1</AI_NAME><!-- -->
+        <HP>1</HP>
+        <WALK_SPEED>0</WALK_SPEED>
+        <JUMP_MOVE_SPEED>0</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>450</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>200</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "mukiki_shoot"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "mukiki_shoot"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>CANNON1</Name>
+        <AI_NAME>AI_M_CANNON1</AI_NAME><!-- -->
+        <HP>1</HP>
+        <WALK_SPEED>0</WALK_SPEED>
+        <JUMP_MOVE_SPEED>0</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>450</JUMP_SPEED>
+        <JUMP2_SPEED>300</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>1</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>200</SCORE>
+        
+        <STATE id = "ATTACK"    category = "0"  value = "mukiki_shoot"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "mukiki_shoot"></STATE>
+    </Enemy>
+    
+    <Enemy>
+        <Name>BALL1</Name>
+        <AI_NAME>AI_BALL1</AI_NAME><!-- -->
+        <HP>5</HP>
+        <WALK_SPEED>0</WALK_SPEED>
+        <JUMP_MOVE_SPEED>0</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>0</JUMP_SPEED>
+        <JUMP2_SPEED>0</JUMP2_SPEED>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DEATH>0</DEATH>
+        <CULLING>0</CULLING>
+        <DAMAGE_SENSOR>1</DAMAGE_SENSOR>
+        <SCORE>200</SCORE>
+
+    </Enemy>
+
+</EnemyData> 

@@ -1,0 +1,8 @@
+<OptionDataTemplate>
+    <OPTION_DATA>
+        <Name>option_00</Name>
+        <BGM>1</BGM>
+        <FX>1</FX>
+        <CONTROL>1</CONTROL>
+    </OPTION_DATA>
+</OptionDataTemplate> 

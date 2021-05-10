@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "point">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FCGameMain::MoveToEventBoxPosition(NSString*):FCGameMain.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pLocalPlayer-&gt;GetBody()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LevelHelperLoader loadLevelHelperSceneFile:inDirectory:imgSubfolder:]:LevelHelperLoader.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "documentsDir">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FCCharacter::SetStateJump():FCCharacter_State.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[LHSettings sharedInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LevelHelperLoader loadLevelHelperScenePath:inDirectory:imgSubfolder:]:LevelHelperLoader.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "dictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FCUIControlCheckButton::TouchEnded(CGPoint):FCUIControlCheckButton.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "point">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FCUIStageSelectWindow::TouchEnded(CGPoint):FCUIStageSelectWindow.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_pTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CustomFile saveFile]:CustomFile.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

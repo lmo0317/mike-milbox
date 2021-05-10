@@ -1,0 +1,165 @@
+<EventBoxCheckPointTemplate>
+    
+    <!-- DEFAULT -->
+    <EVENT_BOX_CHECK_POINT>
+        <Name>DEFAULT</Name>
+        
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+        
+    </EVENT_BOX_CHECK_POINT>
+    
+    <!-- FARM -->
+    <EVENT_BOX_CHECK_POINT>
+        <Name>farm1</Name>
+        
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>farm2</Name>
+       
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+        
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>farm3</Name>
+        
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+        
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>farm4</Name>
+        
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+        
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>farm5</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>farm6</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    <!-- -->
+    <!-- JUNGLE -->
+    <EVENT_BOX_CHECK_POINT>
+        <Name>jungle1</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>jungle2</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>jungle3</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>jungle4</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>jungle5</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>jungle6</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    <!--  -->
+    <!-- WARE HOUSE -->
+    <EVENT_BOX_CHECK_POINT>
+        <Name>warehouse1</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>warehouse2</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>warehouse3</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>warehouse4</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>warehouse5</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>warehouse6</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    <!--  -->
+    <!-- CAVE -->
+    <EVENT_BOX_CHECK_POINT>
+        <Name>cave1</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>cave2</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>cave3</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>cave4</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>cave5</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+    
+    <EVENT_BOX_CHECK_POINT>
+        <Name>cave6</Name>
+        <STATE  id = "DAMAGE"   category = "0" value = "checkpoint"></STATE>
+        <STATE  id = "STAY"     category = "0" value = ""></STATE>
+    </EVENT_BOX_CHECK_POINT>
+</EventBoxCheckPointTemplate> 

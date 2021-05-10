@@ -1,0 +1,22 @@
+<GimmickDataTemplate>
+    
+    <GIMMICK_DATA>
+        <Name>DEFAULT</Name>
+        <TARGET>ALL</TARGET>
+        <ONE_SHOT>1</ONE_SHOT>
+        
+    </GIMMICK_DATA>
+    
+    <GIMMICK_DATA>
+        <Name>gimmick01</Name>
+        <TARGET>ALL</TARGET>
+        <ONE_SHOT>1</ONE_SHOT>
+        
+    </GIMMICK_DATA>
+</GimmickDataTemplate> 
+
+<!--
+ <TARGET>PLAYER</TARGET>
+ <TARGET>ENEMY</TARGET>
+ <TARGET>ALL</TARGET>
+ -->

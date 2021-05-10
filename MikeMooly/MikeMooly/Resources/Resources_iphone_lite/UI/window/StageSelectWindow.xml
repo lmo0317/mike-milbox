@@ -1,0 +1,228 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>StageSelectWindow</Name>
+        
+        
+        <CONTROL id = "lite_message1" type = "button" img1 = "lite_message.png" img2 = "lite_message.png"  x = "720" y = "130" z = "5"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "lite_message2" type = "button" img1 = "lite_message.png" img2 = "lite_message.png"  x = "1200" y = "130" z = "5"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "lite_message3" type = "button" img1 = "lite_message.png" img2 = "lite_message.png"  x = "1680" y = "130" z = "5"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        
+        <CONTROL id = "stage_select_farm" type = "sprite" img1 = "stage_select_farm.png" x = "120" y = "160" z = "1"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "720" height = "320"></CONTROL>
+
+        <CONTROL id = "stage_select_jungle" type = "sprite" img1 = "stage_select_jungle.png" x = "720" y = "160" z = "1"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "480" height = "320"></CONTROL>
+
+        <CONTROL id = "stage_select_lab" type = "sprite" img1 = "stage_select_lab.png" x = "1200" y = "160" z = "1"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "480" height = "320"></CONTROL>
+        
+        <CONTROL id = "stage_select_cave" type = "sprite" img1 = "stage_select_cave.png" x = "1800" y = "160" z = "1"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "720" height = "320"></CONTROL>
+        
+        <CONTROL id = "mark" type = "sprite" img1 = "stage_select_mark.png" x = "0" y = "-100" z = "9"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "48" height = "37"></CONTROL>
+        
+        <CONTROL id = "chapter1" type = "label" x = "240" y = "240" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "CHAPTER 1"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "chapter2" type = "label" x = "720" y = "240" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "CHAPTER 2"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "chapter3" type = "label" x = "1200" y = "240" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "CHAPTER 3"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "chapter4" type = "label" x = "1680" y = "240" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "CHAPTER 4"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+      
+        <CONTROL id = "farm" type = "label" x = "240" y = "187" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "FARM"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "jungle" type = "label" x = "720" y = "187" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "JUNGLE"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "lab" type = "label" x = "1200" y = "187" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "LAB"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "cave" type = "label" x = "1680" y = "187" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "CAVE"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "page1" type = "sprite" img1 = "page1.png" x = "240" y = "75" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "55" height = "10" ></CONTROL>
+        
+        <CONTROL id = "page2" type = "sprite" img1 = "page2.png" x = "720" y = "75" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "55" height = "10" ></CONTROL>
+        
+        <CONTROL id = "page3" type = "sprite" img1 = "page3.png" x = "1200" y = "75" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "55" height = "10" ></CONTROL>
+        
+        <CONTROL id = "page4" type = "sprite" img1 = "page4.png" x = "1680" y = "75" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "55" height = "10" ></CONTROL>
+
+       
+        <!-- 타이틀 화면으로 돌아가기 -->
+        
+        <CONTROL id = "title_00" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "445" y = "290" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "title_01" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "925" y = "290" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "title_02" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "1405" y = "290" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "title_03" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "1885" y = "290" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        
+        <CONTROL id = "icon_main_menu_s1" type = "sprite" img1 = "icon_main_menu_s.png" x = "445" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        <CONTROL id = "icon_main_menu_s2" type = "sprite" img1 = "icon_main_menu_s.png" x = "925" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        <CONTROL id = "icon_main_menu_s3" type = "sprite" img1 = "icon_main_menu_s.png" x = "1405" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        <CONTROL id = "icon_main_menu_s4" type = "sprite" img1 = "icon_main_menu_s.png" x = "1885" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        
+        <CONTROL id = "iconname_backtotitle1" type = "label" x = "445" y = "255" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_backtotitle2" type = "label" x = "925" y = "255" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_backtotitle3" type = "label" x = "1405" y = "255" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_backtotitle4" type = "label" x = "1885" y = "255" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        
+        
+        <!-- 농장 -->
+        
+        <CONTROL id = "menu_00_00" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "65" y = "140" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "number_00_00" type = "label" x = "65" y = "137" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "1"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "star_00_00_00" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "52" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_00_01" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "65" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_00_02" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "78" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+
+        
+        <CONTROL id = "menu_00_01" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "135" y = "140" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "number_00_01" type = "label" x = "135" y = "137" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "2"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "star_00_01_00" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "122" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_01_01" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "135" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_01_02" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "148" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+
+        
+        <CONTROL id = "menu_00_02" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "205" y = "140" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "number_00_02" type = "label" x = "205" y = "137" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "3"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "star_00_02_00" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "192" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_02_01" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "205" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_02_02" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "218" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+
+        <CONTROL id = "menu_00_03" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "275" y = "140" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "number_00_03" type = "label" x = "275" y = "137" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "4"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "star_00_03_00" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "262" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_03_01" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "275" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_03_02" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "288" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+    
+        <CONTROL id = "menu_00_04" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "345" y = "140" z = "3" show_event = "action4" 
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "number_00_04" type = "label" x = "345" y = "137" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "5"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "star_00_04_00" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "332" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_04_01" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "345" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_04_02" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "358" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+
+        <CONTROL id = "menu_00_05" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "415" y = "140" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "number_00_05" type = "label" x = "415" y = "137" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "6"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "star_00_05_00" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "402" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_05_01" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "415" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        <CONTROL id = "star_00_05_02" type = "sprite" img1 = "star_small_off.png" img2 = "star_small.png" x = "428" y = "107" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "13" height = "14"></CONTROL>
+        
+        
+    </Window>
+</WindowDataTemplate> 

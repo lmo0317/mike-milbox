@@ -1,0 +1,64 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>PausedWindow</Name>
+        <CONTROL id = "bar_stage_menu" type = "sprite" img1 = "bar_stage_menu.png" x = "240" y = "0" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "512" height = "384" ></CONTROL>
+
+        
+        <CONTROL id = "paused" type = "label" x = "240" y = "150" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "PAUSED"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "close" type = "button" img1 = "close_button.png" img2 = "close_button.png" x = "460" y = "160" z = "6" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+
+        <CONTROL id = "menu1" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "72" y = "70" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "menu2" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "194" y = "70" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "menu3" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "306" y = "70" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "menu4" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "418" y = "70" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        
+        <CONTROL id = "icon_stage_select" type = "sprite" img1 = "icon_stage_select.png" x = "72" y = "70" z = "3" show_event = "action4" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80" ></CONTROL>
+        
+        <CONTROL id = "icon_main_menu" type = "sprite" img1 = "icon_main_menu.png" x = "194" y = "70" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80" ></CONTROL>
+        
+        <CONTROL id = "icon_option" type = "sprite" img1 = "icon_option.png" x = "306" y = "70" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80" ></CONTROL>
+        
+        <CONTROL id = "icon_restart" type = "sprite" img1 = "icon_restart.png" x = "418" y = "70" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80" ></CONTROL>
+        
+
+        <CONTROL id = "iconname_stage_select" type = "label" x = "72" y = "120" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Stage Select"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_main_menu" type = "label" x = "194" y = "120" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_option" type = "label" x = "306" y = "120" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Option"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_restart" type = "label" x = "418" y = "120" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Restart"
+            r = "255" g = "255" b = "255"></CONTROL>
+
+        
+    </Window>
+</WindowDataTemplate> 
+
+
+
+

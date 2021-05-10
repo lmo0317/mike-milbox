@@ -1,0 +1,8 @@
+
+
+@interface CCLayerBase : CCLayerColor 
+{
+    
+}
+
+@end

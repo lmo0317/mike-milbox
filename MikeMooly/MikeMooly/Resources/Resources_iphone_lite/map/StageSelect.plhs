@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMS_INFO</key>
+	<array>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>block1_stay1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{156, 306}, {27.5, 28}}</string>
+					<key>SpriteName</key>
+					<string>box1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{156, 306}, {27.5, 28}}</string>
+					<key>SpriteName</key>
+					<string>box1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.019999999552965164</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>block1_break1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>block1_stay2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{156, 306}, {27.5, 28}}</string>
+					<key>SpriteName</key>
+					<string>box1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{156, 306}, {27.5, 28}}</string>
+					<key>SpriteName</key>
+					<string>box1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.019999999552965164</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>block1_break2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>block1_stay3</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 409}, {32.5, 32}}</string>
+					<key>SpriteName</key>
+					<string>box1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{156, 306}, {27.5, 28}}</string>
+					<key>SpriteName</key>
+					<string>box1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{156, 306}, {27.5, 28}}</string>
+					<key>SpriteName</key>
+					<string>box1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 372}, {36, 35}}</string>
+					<key>SpriteName</key>
+					<string>box1_1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.019999999552965164</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>block1_break3</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 330}, {39.5, 39.5}}</string>
+					<key>SpriteName</key>
+					<string>soul_O1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>soul_o_stay</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{86, 330}, {39.5, 39.5}}</string>
+					<key>SpriteName</key>
+					<string>soul_O1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.0010000000474974513</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>soul_o_break</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{430, 0}, {16.5, 112.5}}</string>
+					<key>SpriteName</key>
+					<string>electric_trap1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{411, 0}, {16.5, 112.5}}</string>
+					<key>SpriteName</key>
+					<string>electric_trap1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{67, 330}, {16.5, 112.5}}</string>
+					<key>SpriteName</key>
+					<string>electric_trap1_3</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>electric_trap1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{173, 336}, {32, 17.5}}</string>
+					<key>SpriteName</key>
+					<string>pin1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{173, 356}, {32, 17.5}}</string>
+					<key>SpriteName</key>
+					<string>pin1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{186, 306}, {32, 17.5}}</string>
+					<key>SpriteName</key>
+					<string>pin1_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{173, 336}, {32, 17.5}}</string>
+					<key>SpriteName</key>
+					<string>pin1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{173, 336}, {32, 17.5}}</string>
+					<key>SpriteName</key>
+					<string>pin1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{173, 336}, {32, 17.5}}</string>
+					<key>SpriteName</key>
+					<string>pin1_1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>pin1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>dpbp1.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.20000000298023224</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>dpbp1_walk</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>dpbp1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.20000000298023224</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>dpbp1_dying</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>dpbp1.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.20000000298023224</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>dpbp1_jump</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {47, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {48, 33}}</string>
+					<key>SpriteName</key>
+					<string>dpbp1_walk2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>dpbp1.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.20000000298023224</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>Anim</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 352}, {38.5, 36}}</string>
+					<key>SpriteName</key>
+					<string>mukiki</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 352}, {38.5, 36}}</string>
+					<key>SpriteName</key>
+					<string>mukiki</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 352}, {38.5, 36}}</string>
+					<key>SpriteName</key>
+					<string>mukiki</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 352}, {38.5, 36}}</string>
+					<key>SpriteName</key>
+					<string>mukiki</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>forest_obj1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>1</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>mukiki_shoot</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>jump3</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 74}, {37, 33.5}}</string>
+					<key>SpriteName</key>
+					<string>walk_r1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 149}, {37, 34}}</string>
+					<key>SpriteName</key>
+					<string>walk_r2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 37}, {37, 35}}</string>
+					<key>SpriteName</key>
+					<string>walk_r3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{198, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>walk_r5</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{119, 37}, {37, 34}}</string>
+					<key>SpriteName</key>
+					<string>walk_r6</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 75}, {37, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>walk_r7</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 185}, {37, 34}}</string>
+					<key>SpriteName</key>
+					<string>walk_r8</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>walk</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 179}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_3</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>fly_2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>jump1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 179}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 110}, {37, 32}}</string>
+					<key>SpriteName</key>
+					<string>fly_2_3</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>fall</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{198, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 74}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{198, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 74}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{198, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 74}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{198, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 74}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 37}, {36.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>dizzy_3</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.20000000298023224</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>dizzy</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 147}, {36.5, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 147}, {36.5, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 147}, {36.5, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 147}, {36.5, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{197, 110}, {34, 31.5}}</string>
+					<key>SpriteName</key>
+					<string>dying_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{159, 74}, {37, 33}}</string>
+					<key>SpriteName</key>
+					<string>dying_3</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>dying</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{40, 37}, {37.5, 34}}</string>
+					<key>SpriteName</key>
+					<string>landing_r7</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 74}, {37, 33.5}}</string>
+					<key>SpriteName</key>
+					<string>walk_r1</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.20000000298023224</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>stay</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{152, 180}, {32, 35}}</string>
+					<key>SpriteName</key>
+					<string>jump1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 144}, {31.5, 36.5}}</string>
+					<key>SpriteName</key>
+					<string>jump1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{152, 144}, {34.5, 33}}</string>
+					<key>SpriteName</key>
+					<string>jump1_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 213}, {36.5, 31.5}}</string>
+					<key>SpriteName</key>
+					<string>jump1_4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{187, 180}, {32, 35}}</string>
+					<key>SpriteName</key>
+					<string>jump1_5</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{158, 110}, {37, 31}}</string>
+					<key>SpriteName</key>
+					<string>jump1_6</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.059999998658895493</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>jump2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{152, 180}, {32, 35}}</string>
+					<key>SpriteName</key>
+					<string>jump1_1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 144}, {31.5, 36.5}}</string>
+					<key>SpriteName</key>
+					<string>jump1_2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{152, 144}, {34.5, 33}}</string>
+					<key>SpriteName</key>
+					<string>jump1_3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{79, 213}, {36.5, 31.5}}</string>
+					<key>SpriteName</key>
+					<string>jump1_4</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{187, 180}, {32, 35}}</string>
+					<key>SpriteName</key>
+					<string>jump1_5</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{158, 110}, {37, 31}}</string>
+					<key>SpriteName</key>
+					<string>jump1_6</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>jump1f</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{118, 74}, {38, 32.5}}</string>
+					<key>SpriteName</key>
+					<string>fly1</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{82, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {38, 34.5}}</string>
+					<key>SpriteName</key>
+					<string>fly3</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{163, 0}, {38, 34}}</string>
+					<key>SpriteName</key>
+					<string>fly4</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>LoopForever</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<false/>
+			<key>UniqueName</key>
+			<string>fly</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_walk</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_stay</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_jump1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_jump2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_fall</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>FrameRect</key>
+					<string>{{0, 0}, {87, 36}}</string>
+					<key>SpriteName</key>
+					<string>fore_basket2</string>
+				</dict>
+			</array>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>LoopForever</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_dying</string>
+		</dict>
+	</array>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>BEZIER_INFO</key>
+	<array/>
+	<key>CreatedWith</key>
+	<string>LevelHelper</string>
+	<key>Gravity</key>
+	<string>{0, -40}</string>
+	<key>JOINTS_INFO</key>
+	<array/>
+	<key>LHVersion</key>
+	<string>1.4.3</string>
+	<key>LoadedImages</key>
+	<array>
+		<dict>
+			<key>Image</key>
+			<string>cave_bkg1.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>cave_imsi.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>farm_bkg1.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>forest_bkg3.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>jungle_bkg1.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>lab_bkg1.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>warehouse_bkg1.png</string>
+			<key>OrderZ</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>cave_bkg2.png</string>
+			<key>OrderZ</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>farm_bkg2.png</string>
+			<key>OrderZ</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>forest_bkg2.png</string>
+			<key>OrderZ</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>jungle_bkg2.png</string>
+			<key>OrderZ</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>ui_test.png</string>
+			<key>OrderZ</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>warehouse_bkg2.png</string>
+			<key>OrderZ</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>forest_bkg1.png</string>
+			<key>OrderZ</key>
+			<integer>7</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>cave_obj1.png</string>
+			<key>OrderZ</key>
+			<integer>8</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>cave_tile1.png</string>
+			<key>OrderZ</key>
+			<integer>8</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>common_obj1.png</string>
+			<key>OrderZ</key>
+			<integer>9</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>dpbp1.png</string>
+			<key>OrderZ</key>
+			<integer>9</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>slot_machine.png</string>
+			<key>OrderZ</key>
+			<integer>9</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>forest_obj1.png</string>
+			<key>OrderZ</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>mike.png</string>
+			<key>OrderZ</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>mike_costume.png</string>
+			<key>OrderZ</key>
+			<integer>11</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>jungle_bkg3.png</string>
+			<key>OrderZ</key>
+			<integer>12</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>forest_frg1.png</string>
+			<key>OrderZ</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>ui_sample.png</string>
+			<key>OrderZ</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>object_fore1.png</string>
+			<key>OrderZ</key>
+			<integer>20</integer>
+		</dict>
+	</array>
+	<key>PARALLAX_INFO</key>
+	<array/>
+	<key>SPRITES_INFO</key>
+	<array/>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.8, 0.8}, {0.8, 1}}</string>
+		<key>GameWorld</key>
+		<string>{{0, 0}, {240, 160}}</string>
+		<key>LevelsPath</key>
+		<string>file://localhost/trunk/MikeMooly/MikeMooly/Resources/map/</string>
+		<key>PanValue</key>
+		<string>{229.611, 218.338}</string>
+		<key>ProjectName</key>
+		<string>Mike_Stage</string>
+		<key>SHScenesPath</key>
+		<string>file://localhost/trunk/MikeMooly/MikeMooly/Resources/map/</string>
+		<key>SafeFrame</key>
+		<string>{480, 320}</string>
+		<key>ScreenSize</key>
+		<integer>1</integer>
+		<key>Tags</key>
+		<array>
+			<string>DEFAULT</string>
+			<string>PLAYER</string>
+			<string>ENEMY01</string>
+			<string>ENEMY02</string>
+			<string>ENEMY03</string>
+			<string>ENEMY04</string>
+			<string>ENEMY05</string>
+			<string>ENEMY06</string>
+			<string>ENEMY07</string>
+			<string>ENEMY08</string>
+			<string>ENEMY09</string>
+			<string>ENEMY10</string>
+			<string>BLOCK01</string>
+			<string>BLOCK02</string>
+			<string>BLOCK03</string>
+			<string>BLOCK04</string>
+			<string>BLOCK05</string>
+			<string>BLOCK06</string>
+			<string>BLOCK07</string>
+			<string>BLOCK08</string>
+			<string>BLOCK09</string>
+			<string>BLOCK10</string>
+			<string>FOOTHOLD01</string>
+			<string>FIELDITEM01</string>
+			<string>FIELDITEM02</string>
+			<string>FIELDITEM03</string>
+			<string>FIELDITEM04</string>
+			<string>FIELDITEM05</string>
+			<string>FIELDITEM06</string>
+			<string>FIELDITEM07</string>
+			<string>FIELDITEM08</string>
+			<string>FIELDITEM09</string>
+			<string>FIELDITEM10</string>
+			<string>PLATFORM01</string>
+			<string>SHOOT01</string>
+			<string>HITDATA01</string>
+			<string>EVENT_BOX_PORTAL01</string>
+			<string>EVENT_BOX_STAGE_CLEAR01</string>
+		</array>
+		<key>ZoomValue</key>
+		<real>0.91871696710586548</real>
+	</dict>
+	<key>WBInfo</key>
+	<dict>
+		<key>CanSleep</key>
+		<true/>
+		<key>Category</key>
+		<integer>2</integer>
+		<key>Density</key>
+		<real>0.20000000298023224</real>
+		<key>Friction</key>
+		<real>0.20000000298023224</real>
+		<key>Group</key>
+		<integer>0</integer>
+		<key>IsSensor</key>
+		<false/>
+		<key>Mask</key>
+		<integer>3</integer>
+		<key>Restitution</key>
+		<real>0.20000000298023224</real>
+		<key>TagBottom</key>
+		<integer>0</integer>
+		<key>TagBottomName</key>
+		<string>DEFAULT</string>
+		<key>TagLeft</key>
+		<integer>0</integer>
+		<key>TagLeftName</key>
+		<string>DEFAULT</string>
+		<key>TagRight</key>
+		<integer>0</integer>
+		<key>TagRightName</key>
+		<string>DEFAULT</string>
+		<key>TagTop</key>
+		<integer>0</integer>
+		<key>TagTopName</key>
+		<string>DEFAULT</string>
+		<key>WBRect</key>
+		<string>{{0, 0}, {480, 230}}</string>
+	</dict>
+</dict>
+</plist>

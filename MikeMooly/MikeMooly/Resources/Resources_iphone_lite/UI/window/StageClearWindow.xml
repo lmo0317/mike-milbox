@@ -1,0 +1,103 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>StageClearWindow</Name>
+        
+        <CONTROL id = "3" type = "sprite" img1 = "bar_stage_menu.png" x = "240" y = "160" z = "1"  
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "512" height = "384" ></CONTROL>
+        
+        <CONTROL id = "menu_00" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "80" y = "55" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "menu_02" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "240" y = "55" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "menu_01" type = "button" img1 = "button_m1.png" img2 = "button_m1_pressed.png" x = "400" y = "55" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        
+        <CONTROL id = "icon_restart" type = "sprite" img1 = "icon_restart.png"  x = "80" y = "55" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80"></CONTROL>
+        
+        <CONTROL id = "icon_next_stage" type = "sprite" img1 = "icon_stage_select.png"  x = "240" y = "55" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80"></CONTROL>
+        
+        <CONTROL id = "icon_stage_select" type = "sprite" img1 = "icon_next_stage.png"  x = "400" y = "55" z = "3" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "82" height = "80"></CONTROL>
+        
+        
+        <CONTROL id = "iconname_restart" type = "label" x = "80" y = "105" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Restart"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_next_stage" type = "label" x = "400" y = "105" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Next Stage"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_stage_select" type = "label" x = "240" y = "105" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Stage Select"
+            r = "255" g = "255" b = "255"></CONTROL>
+
+        
+         <CONTROL id = "star1_off" type = "sprite" img1 = "star_large_off.png" x = "130" y = "170" z = "3" show_event = "star_result_off1"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "72" height = "70"></CONTROL>
+        
+        <CONTROL id = "star2_off" type = "sprite" img1 = "star_large_off.png" x = "240" y = "190" z = "3" show_event = "star_result_off2"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "72" height = "70"></CONTROL>
+        
+        <CONTROL id = "star3_off" type = "sprite" img1 = "star_large_off.png" x = "350" y = "170" z = "3" show_event = "star_result_off3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "72" height = "70"></CONTROL>
+        
+        
+        <CONTROL id = "star1" type = "sprite" img1 = "star_large.png" x = "130" y = "170" z = "3" show_event = "star_result_off1"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "72" height = "70"></CONTROL>
+        
+        <CONTROL id = "star2" type = "sprite" img1 = "star_large.png" x = "240" y = "190" z = "3" show_event = "star_result_off2"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "72" height = "70"></CONTROL>
+        
+        <CONTROL id = "star3" type = "sprite" img1 = "star_large.png" x = "350" y = "170" z = "3" show_event = "star_result_off3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "72" height = "70"></CONTROL>
+
+        
+        <CONTROL id = "message" type = "label" x = "240" y = "130" z = "5"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = ""
+            r = "255" g = "255" b = "255"></CONTROL>
+       
+
+         <CONTROL id = "rank1" type = "label" x = "130" y = "160" z = "5" 
+             anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Clear in 100 seconds"
+         r = "255" g = "255" b = "255"></CONTROL>
+         
+         <CONTROL id = "rank2" type = "label" x = "240" y = "180" z = "5" 
+         anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Rescue all chicks"
+         r = "255" g = "255" b = "255"></CONTROL>
+         
+         <CONTROL id = "rank3" type = "label" x = "350" y = "160" z = "5" 
+         anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "No damage"
+         r = "255" g = "255" b = "255"></CONTROL>
+
+         
+    </Window>
+</WindowDataTemplate> 
+
+
+<!--
+
+ SPRITE :
+     
+ 
+     <CONTROL id = "iconname_next_stage" type = "sprite" img1 = "iconname_next_stage.png"  x = "400" y = "140" z = "3"
+     anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "73" height = "13"></CONTROL>
+
+
+BUTTON :
+ 
+     <CONTROL id = "menu_00" type = "button" img1 = "button_m2.png" img2 = "button_m2.png" x = "42" y = "140" z = "2"
+     anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "46" height = "44"></CONTROL>
+
+ LABEL :
+ 
+     <CONTROL id = "stage_name_label" type = "label" x = "300" y = "160" z = "1"
+     anchor_x = "0.5" anchor_y = "0" fnt_file = "plump_20.fnt" default = ""
+     r = "255" g = "255" b = "255"></CONTROL>
+
+-->

@@ -1,0 +1,134 @@
+<FieldItemTemplate>
+    <FIELDITEM>
+        <Name>DEFAULT</Name>
+        <CATEGORY>COIN</CATEGORY>
+        <SCORE>100</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "soul_o_stay"></STATE>
+    </FIELDITEM>
+
+    <FIELDITEM>
+        <Name>LIFE</Name>
+        <CATEGORY>LIFE</CATEGORY>
+        <SCORE>1000</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "life"></STATE>
+    </FIELDITEM>
+
+    <FIELDITEM>
+        <Name>HP</Name>
+        <CATEGORY>HP</CATEGORY>
+        <SCORE>300</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "hp"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>SOUL</Name>
+        <CATEGORY>COIN</CATEGORY>
+        <SCORE>0</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "soul_o_stay"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>BANANA</Name>
+        <CATEGORY>SCORE</CATEGORY>
+        <SCORE>80</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "banana"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>SCORE</Name>
+        <CATEGORY>SCORE</CATEGORY>
+        <SCORE>100</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "soul_o_stay"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>COIN</Name>
+        <CATEGORY>COIN</CATEGORY>
+        <SCORE>30</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "soul_o_break"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "coin_stay"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>CHICK0</Name>
+        <CATEGORY>MISSION_ITEM</CATEGORY>
+        <SCORE>500</SCORE>
+        <MISSION_ITEM_ID>0</MISSION_ITEM_ID>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_rescue1"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_cry"></STATE>
+        <STATE  id = "RESCUE"   category = "0" value = "chick_cry"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>CHICK1</Name>
+        <CATEGORY>MISSION_ITEM</CATEGORY>
+        <SCORE>500</SCORE>
+        <MISSION_ITEM_ID>1</MISSION_ITEM_ID>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_rescue2"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_cry"></STATE>
+        <STATE  id = "RESCUE"   category = "0" value = "chick_cry"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>CHICK2</Name>
+        <CATEGORY>MISSION_ITEM</CATEGORY>
+        <SCORE>500</SCORE>
+        <MISSION_ITEM_ID>2</MISSION_ITEM_ID>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_rescue3"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_cry"></STATE>
+        <STATE  id = "RESCUE"   category = "0" value = "chick_cry"></STATE>
+    
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>HEN</Name>
+        <CATEGORY>SCORE</CATEGORY>
+        <SCORE>500</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "melisha_stay"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>HURRAH</Name>
+        <CATEGORY>NONE</CATEGORY>
+        <SCORE>500</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_hurrah"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_hurrah"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>DANCE</Name>
+        <CATEGORY>NONE</CATEGORY>
+        <SCORE>500</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_dance"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_dance"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>ROBOT</Name>
+        <CATEGORY>NONE</CATEGORY>
+        <SCORE>500</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_robot"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_robot"></STATE>
+    </FIELDITEM>
+    
+    <FIELDITEM>
+        <Name>TEAR</Name>
+        <CATEGORY>NONE</CATEGORY>
+        <SCORE>500</SCORE>
+        <STATE  id = "DAMAGE"   category = "0" value = "chick_tear"></STATE>
+        <STATE  id = "STAY"     category = "0" value = "chick_tear"></STATE>
+    </FIELDITEM>
+
+</FieldItemTemplate> 
+
+<!--
+ CATEGORY :
+    LIFE , HP , COIN , SCORE , NONE
+-->

@@ -1,0 +1,354 @@
+<MotionData>
+    <MOTION>
+        <Name>dpbp1_walk</Name>
+        <SOUND frame = "0" value = "dpbp1_walk.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>dpbp1_dying</Name>
+        <EFFECT frame = "0" value = "feather1.plist"></EFFECT>
+        <EFFECT frame = "2" value = "feather2.plist"></EFFECT>
+        <EFFECT frame = "4" value = "feather3.plist"></EFFECT>
+        <SOUND frame = "0" value = "dpbp1_dying.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>dpbp2_walk</Name>
+        <SOUND frame = "0" value = "dpbp1_walk.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>dpbp2_dying</Name>
+        <EFFECT frame = "0" value = "feather1.plist"></EFFECT>
+        <EFFECT frame = "2" value = "feather2.plist"></EFFECT>
+        <EFFECT frame = "4" value = "feather3.plist"></EFFECT>
+        <SOUND frame = "0" value = "dpbp1_dying.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>walk</Name>
+        
+        <SOUND frame = "0" value = "mike_walk.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>dizzy</Name>
+        <SOUND frame = "0" value = "mike_dizzy.wav"></SOUND>
+        <EFFECT frame = "6" value = "feather2.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage1.plist"></EFFECT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>jump1</Name>
+        <EFFECT frame = "0" value = "mike_jump_effect2.plist"></EFFECT>
+        <!--
+         <EFFECT frame = "6" value = "feather2.plist"></EFFECT>
+        -->
+        <SOUND frame = "0" value = "mike_jump1.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>jump2</Name>
+        <EFFECT frame = "0" value = "mike_jump_effect2.plist"></EFFECT>
+        <!--
+        <EFFECT frame = "6" value = "feather3.plist"></EFFECT>
+        -->
+        <SOUND frame = "0" value = "mike_jump2.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>dying</Name>
+        <EFFECT frame = "0" value = "damage1.plist"></EFFECT>
+        <EFFECT frame = "0" value = "feather1.plist"></EFFECT>
+        <EFFECT frame = "2" value = "feather2.plist"></EFFECT>
+        <EFFECT frame = "4" value = "feather3.plist"></EFFECT>
+        <SOUND frame = "0" value = "mike_dizzy.wav"></SOUND>
+        <SOUND frame = "0" value = "mike_dying.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>kart1_walk</Name>
+        <EFFECT frame = "0" value = "dust2.plist"></EFFECT>
+        <SOUND frame = "0" value = "A5_01016.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>kart1_jump1</Name>
+        <EFFECT frame = "0" value = "mike_jump_effect2.plist"></EFFECT>
+        <EFFECT frame = "6" value = "feather2.plist"></EFFECT>
+        <SOUND frame = "0" value = "A1_10204.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>kart1_jump2</Name>
+        <EFFECT frame = "0" value = "mike_jump_effect2.plist"></EFFECT>
+        <EFFECT frame = "6" value = "feather3.plist"></EFFECT>
+        <SOUND frame = "0" value = "A1_19291.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>kart1_dying</Name>
+        <EFFECT frame = "0" value = "feather1.plist"></EFFECT>
+        <EFFECT frame = "2" value = "feather2.plist"></EFFECT>
+        <EFFECT frame = "4" value = "feather3.plist"></EFFECT>
+        <SOUND frame = "0" value = "A5_06179.WAV"></SOUND>
+        <SOUND frame = "0" value = "A1_09183.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>sq_walk</Name>
+        <EFFECT frame = "0" value = "dust2.plist"></EFFECT>
+        <SOUND frame = "0" value = "A5_01016.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>sq_dizzy</Name>
+        <SOUND frame = "0" value = "A1_17269.WAV"></SOUND>
+        <SOUND frame = "0" value = "A1_09177.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>sq_jump1</Name>
+        <EFFECT frame = "0" value = "mike_jump_effect2.plist"></EFFECT>
+        <SOUND frame = "0" value = "A1_10204.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>sq_jump2</Name>
+        <EFFECT frame = "0" value = "mike_jump_effect2.plist"></EFFECT>
+        <SOUND frame = "0" value = "A1_19291.WAV"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>sq_dying</Name>
+        <SOUND frame = "0" value = "A5_06179.WAV"></SOUND>
+        <SOUND frame = "0" value = "A1_09183.WAV"></SOUND>
+    </MOTION>    
+    
+    <MOTION>
+        <Name>mukiki_shoot</Name>
+        <SHOOT frame = "1" model = "SHOOT05_football"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>mukiki_shoot2</Name>
+        <SHOOT frame = "1" model = "SHOOT04_football"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>cannon_shoot</Name>
+        <SHOOT frame = "1" model = "SHOOT05_football"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>cannon_shoot2</Name>
+        <SHOOT frame = "1" model = "SHOOT04_football"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>shoot_l1</Name>
+        <SHOOT frame = "1" model = "fireball_l1"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>shoot_r1</Name>
+        <SHOOT frame = "1" model = "fireball_r1"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>mukiki_jump</Name>
+
+    </MOTION>
+    
+    <MOTION>
+        <Name>block1_break3</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+    </MOTION>
+    
+    <MOTION>
+        <Name>block1_break2</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+    </MOTION>
+    
+    <MOTION>
+        <Name>block1_break1</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+    </MOTION>
+    
+    <MOTION>
+        <Name>block2_box</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+        <SHOOT frame = "0" model = "fielditem_box1"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block1_block</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+        <SHOOT frame = "0" model = "fielditem_block"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_life</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "life.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+        <SHOOT frame = "0" model = "LIFE_life"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_hp</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "heart.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+        <SHOOT frame = "0" model = "HP_hp"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block1_soul</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+        <SHOOT frame = "0" model = "SOUL_soul"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_banana</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+        <HITDATA frame = "0" model = "hitdata01_box1"></HITDATA>
+        <SHOOT frame = "0" model = "BANANA_banana"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_DPBP11</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+
+        <SHOOT frame = "0" model = "DPBP11_dropped"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_portal1</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+
+        <SHOOT frame = "0" model = "PORTAL1"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_portal2</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+
+        <SHOOT frame = "0" model = "PORTAL2"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_portal3</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+
+        <SHOOT frame = "0" model = "PORTAL3"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>block2_portal4</Name>
+        <EFFECT frame = "0" value = "woodbox1_crash.plist"></EFFECT>
+        <EFFECT frame = "0" value = "damage_spark1.plist"></EFFECT>
+        <SOUND frame = "0" value = "block_break.wav"></SOUND>
+
+        <SHOOT frame = "0" model = "PORTAL4"></SHOOT>
+    </MOTION> 
+    
+    <MOTION>
+        <Name>soul_o_break</Name>
+        <EFFECT frame = "0" value = "ring_crash.plist"></EFFECT>
+        <SOUND frame = "0" value = "get_coin.wav"></SOUND>
+    </MOTION>
+
+    
+    <MOTION>
+        <Name>chick_rescue1</Name>
+        <EFFECT frame = "0" value = "ring_crash.plist"></EFFECT>
+        <SOUND frame = "0" value = "chick_hurrah.wav"></SOUND>
+        <SHOOT frame = "0" model = "HURRAH_baby1"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>chick_rescue2</Name>
+        <EFFECT frame = "0" value = "ring_crash.plist"></EFFECT>
+        <SOUND frame = "0" value = "chick_hurrah.wav"></SOUND>
+        <SHOOT frame = "0" model = "DANCE_baby1"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>chick_rescue3</Name>
+        <EFFECT frame = "0" value = "ring_crash.plist"></EFFECT>
+        <SOUND frame = "0" value = "chick_hurrah.wav"></SOUND>
+        <SHOOT frame = "0" model = "ROBOT_baby1"></SHOOT>
+    </MOTION>
+
+    <MOTION>
+        <Name>trap_stay</Name>
+        <EFFECT frame = "0" value = "fireball.plist"></EFFECT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>checkpoint</Name>
+        <SOUND frame = "0" value = "shutter.wav"></SOUND>
+        <SOUND frame = "6" value = "shutter.wav"></SOUND>
+    </MOTION>
+    
+    <MOTION>
+        <Name>switch_on</Name>
+        <SOUND frame = "0" value = "checkpoint.wav"></SOUND>
+        <SHOOT frame = "0" model = "switch1_2"></SHOOT>
+    </MOTION>
+    
+    <MOTION>
+        <Name>particle1</Name>
+
+    </MOTION>
+    
+    <MOTION>
+        <Name>particle2</Name>
+
+    </MOTION>
+    
+    <MOTION>
+        <Name>particle3</Name>
+
+    </MOTION>
+    
+    <MOTION>
+        <Name>particle4</Name>
+
+    </MOTION>
+    
+    <MOTION>
+        <Name>fireball</Name>
+        <EFFECT frame = "1" value = "fireball.plist"></EFFECT>
+        
+    </MOTION>    
+</MotionData> 

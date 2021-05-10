@@ -1,0 +1,16 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>StageStartWindow</Name>
+        
+        <CONTROL id = "bar_stage_start" type = "sprite" img1 = "bar_stage_start.png" x = "-450" y = "160" z = "1" show_event = "b1show"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "512" height = "85"></CONTROL>
+        
+        <CONTROL id = "stage_name" type = "sprite" img1 = "stagename_farm.png" x = "-450" y = "160" z = "3" show_event = "b1show2"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "219" height = "40"></CONTROL>
+        
+        <CONTROL id = "stage_name_label" type = "label" x = "-450" y = "130" z = "3" show_event = "b1show3"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = ""
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+    </Window>
+</WindowDataTemplate> 

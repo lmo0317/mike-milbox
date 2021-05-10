@@ -1,0 +1,14 @@
+<ShootData>
+    <SHOOT>
+        <Name>DEFAULT</Name>
+        <LIFE_TIME>10</LIFE_TIME>
+    </SHOOT>
+    <SHOOT>
+        <Name>SHOOT05</Name>
+        <LIFE_TIME>10</LIFE_TIME>
+    </SHOOT>
+    <SHOOT>
+        <Name>shoot02</Name>
+        <LIFE_TIME>10</LIFE_TIME>
+    </SHOOT>
+</ShootData>

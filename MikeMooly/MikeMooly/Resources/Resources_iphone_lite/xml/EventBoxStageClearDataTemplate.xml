@@ -1,0 +1,51 @@
+<EventBoxStageClearTemplate>
+    <!-- FARM -->
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>DEFAULT</Name>
+        <NextStage>farm_2</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>farm1</Name>
+        <NextStage>farm_2</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>farm2</Name>
+        <NextStage>farm_3</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>farm3</Name>
+        <NextStage>farm_4</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>farm4</Name>
+        <NextStage>farm_5</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>farm5</Name>
+        <NextStage>farm_6</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>farm6</Name>
+        <NextStage>jungle_1</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+    
+    <EVENT_BOX_STAGE_CLEAR>
+        <Name>jungle1</Name>
+        <NextStage>title</NextStage>
+        <STATE  id = "DAMAGE"   category = "0" value = "melisha_thanks"></STATE>
+    </EVENT_BOX_STAGE_CLEAR>
+
+</EventBoxStageClearTemplate> 

@@ -1,0 +1,9 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>SceneEventWindow</Name>
+        
+        <CONTROL id = "black" type = "sprite" img1 = "black.png" x = "0" y = "0" z = "10"
+            anchor_x = "0" anchor_y = "0" u = "0" v = "0" width = "480" height = "320"></CONTROL>
+ 
+    </Window>
+</WindowDataTemplate> 

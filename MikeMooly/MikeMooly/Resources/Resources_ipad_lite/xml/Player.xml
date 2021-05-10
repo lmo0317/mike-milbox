@@ -1,0 +1,121 @@
+<PlayerData>
+    <Player>
+        <Name>mike</Name>
+        <WALK_SPEED>140</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>330</JUMP2_SPEED>
+        <DEATH_TIME>3</DEATH_TIME>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DAMAGE_BOUNCE_SPEED>300</DAMAGE_BOUNCE_SPEED>
+        <JUMP_MAX_COUNT>1</JUMP_MAX_COUNT>
+        
+        <STATE id = "WALK"      category = "0"  value = "walk"></STATE>
+        <STATE id = "STAY"      category = "0"  value ="stay"></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = "dizzy"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "jump1"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "jump2"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "fall"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dying"></STATE>
+    </Player>
+    
+    <Player>
+        <Name>mike2</Name>   
+        <WALK_SPEED>130</WALK_SPEED>
+        <JUMP_MOVE_SPEED>125</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>360</JUMP_SPEED>
+        <JUMP2_SPEED>260</JUMP2_SPEED>
+        <DEATH_TIME>3</DEATH_TIME>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DAMAGE_BOUNCE_SPEED>300</DAMAGE_BOUNCE_SPEED>
+        <JUMP_MAX_COUNT>1</JUMP_MAX_COUNT>
+        
+        <STATE id = "WALK"      category = "0"  value = "walk"></STATE>
+        <STATE id = "STAY"      category = "0"  value ="stay"></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = "dizzy"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "jump1"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "jump2"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "fall"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dying"></STATE>
+    </Player>    
+    <Player>
+        <Name>dpbp1</Name>
+        <WALK_SPEED>140</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>330</JUMP2_SPEED>
+        <DEATH_TIME>3</DEATH_TIME>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DAMAGE_BOUNCE_SPEED>300</DAMAGE_BOUNCE_SPEED>
+        <JUMP_MAX_COUNT>20</JUMP_MAX_COUNT>
+        
+        <STATE id = "WALK"      category = "0"  value = ""></STATE>
+        <STATE id = "STAY"      category = "0"  value =""></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = ""></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = ""></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = ""></STATE>
+        <STATE id = "FALL"      category = "0"  value = ""></STATE>
+        <STATE id = "DYING"     category = "0"  value = ""></STATE>
+    </Player>
+    
+    <Player>
+        <Name>mooly</Name>
+        <WALK_SPEED>140</WALK_SPEED>
+        <JUMP_MOVE_SPEED>115</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>430</JUMP_SPEED>
+        <JUMP2_SPEED>330</JUMP2_SPEED>
+        <DEATH_TIME>3</DEATH_TIME>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DAMAGE_BOUNCE_SPEED>300</DAMAGE_BOUNCE_SPEED>
+        <JUMP_MAX_COUNT>20</JUMP_MAX_COUNT>
+            
+        <STATE id = "WALK"      category = "0"  value = "walk"></STATE>
+        <STATE id = "STAY"      category = "0"  value ="stay"></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = "dizzy"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "jump1"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "jump2"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "fall"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "dying"></STATE>
+    </Player>
+    
+    <Player>
+        <Name>squirrel</Name>
+        <WALK_SPEED>160</WALK_SPEED>
+        <JUMP_MOVE_SPEED>175</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>400</JUMP_SPEED>
+        <JUMP2_SPEED>400</JUMP2_SPEED>
+        <DEATH_TIME>3</DEATH_TIME>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DAMAGE_BOUNCE_SPEED>300</DAMAGE_BOUNCE_SPEED>
+        <JUMP_MAX_COUNT>20</JUMP_MAX_COUNT>
+        
+        <STATE id = "WALK"      category = "0"  value = "sq_walk"></STATE>
+        <STATE id = "STAY"      category = "0"  value ="sq_stay"></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = "sq_dizzy"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "sq_jump1"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "sq_jump2"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "sq_walk"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "sq_dying"></STATE>
+    </Player>
+    
+    
+    <Player>
+        <Name>mike_kart1</Name>
+        <WALK_SPEED>240</WALK_SPEED>
+        <JUMP_MOVE_SPEED>220</JUMP_MOVE_SPEED>
+        <JUMP_SPEED>1500</JUMP_SPEED>
+        <JUMP2_SPEED>1400</JUMP2_SPEED>
+        <DEATH_TIME>3</DEATH_TIME>
+        <BOUNCE_SPEED>300</BOUNCE_SPEED>
+        <DAMAGE_BOUNCE_SPEED>300</DAMAGE_BOUNCE_SPEED>
+        <JUMP_MAX_COUNT>20</JUMP_MAX_COUNT>
+        
+        <STATE id = "WALK"      category = "0"  value = "kart1_walk"></STATE>
+        <STATE id = "STAY"      category = "0"  value ="kart1_stay"></STATE>
+        <STATE id = "DAMAGE"    category = "0"  value = "kart1_dizzy"></STATE>
+        <STATE id = "JUMP1"     category = "0"  value = "kart1_jump1"></STATE>
+        <STATE id = "JUMP2"     category = "0"  value = "kart1_jump2"></STATE>
+        <STATE id = "FALL"      category = "0"  value = "kart1_fall"></STATE>
+        <STATE id = "DYING"     category = "0"  value = "kart1_dying"></STATE>
+    </Player>
+</PlayerData>

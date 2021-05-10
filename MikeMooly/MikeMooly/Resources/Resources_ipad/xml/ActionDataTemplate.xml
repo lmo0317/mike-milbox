@@ -1,0 +1,476 @@
+<ActionDataTemplate>
+    <ACTION_DATA>
+        <Name>b1show</Name>
+        <Repeat>0</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.01" scale_x = "1" scale_y = "0.03"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = ".3" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.3" x = "1470" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = ".2" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.3" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "2" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.3" scale_x = "1" scale_y = "0.03"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.5" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.5" x = "-1550" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>b1show2</Name>
+        <Repeat>0</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.3" x = "1570" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "2" x = "20" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCFadeOut" duration = "1" > </ACTION>
+            <ACTION type ="CCMoveBy" duration = "1" x = "20" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+    
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>b1show3</Name>
+        <Repeat>0</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1.5" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.3" x = "1780" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1.5" x = "20" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCFadeOut" duration = "1" > </ACTION>
+            <ACTION type ="CCMoveBy" duration = "1" x = "20" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>button1</Name>
+        <Repeat>1</Repeat>
+       
+        <SEQUENCE>
+            <ACTION type ="CCSkewTo" duration = ".2" skew_x = "45" skew_y = "0"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>action1</Name>
+        <Repeat>0</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1" x = "10" y = "10"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1" x = "10" y = "10"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>    
+            <ACTION type ="CCRotateBy" duration = "1" angle = "90"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "1" angle = "-90"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCJumpBy" duration = "1" height = "100" jumps = "5"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "1" scale_x = "10" scale_y = "10"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "1" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCSkewTo" duration = "1" skew_x = "45" skew_y = "0"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCSkewTo" duration = "1" skew_x = "0" skew_y = "0"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>action2</Name>
+        <Repeat>0</Repeat>
+
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1" x = "100" y = "0"> </ACTION>
+            <!-- <ACTION type ="CCScaleTo" duration = "1" scale_x = "10" scale_y = "10"> </ACTION> -->
+            <ACTION type ="CCRotateBy" duration = "1" angle = "90"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "1" x = "-100" y = "0"> </ACTION>
+            <!-- <ACTION type ="CCScaleTo" duration = "1" scale_x = "1" scale_y = "1"> </ACTION> -->
+            <ACTION type ="CCRotateBy" duration = "1" angle = "-90"> </ACTION>
+        </SEQUENCE>
+                
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>action3</Name>
+        <Repeat>-1</Repeat>
+
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.5" angle = "10"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.5" angle = "-10"> </ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>action4</Name>
+        <Repeat>1</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "0.01" scale_y = "0.01"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1" scale_y = "1"></ACTION>
+            <ACTION type ="CCRotateBy" duration = "0.2" angle = "15"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.2" angle = "-25"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.2" angle = "17"> </ACTION>
+        </SEQUENCE>
+
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.1" angle = "-12"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.1" angle = "8"> </ACTION>
+        </SEQUENCE>
+ 
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.1" angle = "-6"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.1" angle = "5"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.1" angle = "-4"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "3"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "-2"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "2"> </ACTION>
+        </SEQUENCE>      
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "-2"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "2"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "-2"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "0.05" angle = "1"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCRotateBy" duration = "2" angle = "0"> </ACTION>
+        </SEQUENCE>
+    </ACTION_DATA>
+ 
+    <ACTION_DATA>
+        <Name>star_result_off1</Name>
+        <Repeat>0</Repeat>
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+                
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.1" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1.2" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "0.9" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>star_result_off2</Name>
+        <Repeat>0</Repeat>
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.2" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1.4" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1.1" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1.2" scale_y = "1"></ACTION>
+        </SEQUENCE>
+
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>star_result_off3</Name>
+        <Repeat>0</Repeat>
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.3" x = "0" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1.2" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "0.9" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>star_result1</Name>
+        <Repeat>0</Repeat>
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+         
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.1" x = "10" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1.2" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "0.9" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>star_result2</Name>
+        <Repeat>0</Repeat>
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.2" x = "20" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1.2" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "0.9" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>star_result3</Name>
+        <Repeat>0</Repeat>
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCMoveBy" duration = "0.3" x = "30" y = "0"> </ACTION>
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0.2" scale_x = "1.2" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "0.9" scale_y = "1"></ACTION>
+            <ACTION type ="CCScaleTo" duration = "0.1" scale_x = "1" scale_y = "1"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+
+    <ACTION_DATA>
+        <Name>action5</Name>
+        <Repeat>-1</Repeat>
+        <!--
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.1" angle = "15"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "-30"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "25"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "-20"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "15"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "-10"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "8"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "-6"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "3"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "0.2" angle = "3"> </ACTION>
+         </SEQUENCE>
+         
+         <SEQUENCE>
+         <ACTION type ="CCRotateBy" duration = "1" angle = "0"> </ACTION>
+         </SEQUENCE>
+         -->
+    </ACTION_DATA>
+    
+    <ACTION_DATA>
+        <Name>action6</Name>
+        <Repeat>-1</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCAnimation" duration = "0.1" file = "test_%02d.png" count = "2"> </ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    
+    <ACTION_DATA>
+        <Name>action7</Name>
+        <Repeat>0</Repeat>
+        
+        <SEQUENCE>
+            <ACTION type ="CCScaleTo" duration = "0" scale_x = "0" scale_y = "0"></ACTION>
+        </SEQUENCE>
+        
+    </ACTION_DATA>
+    
+    
+
+    
+</ActionDataTemplate>
+
+<!--
+ 
+ Repeat : 0  반복 안함 -1 무제한 반복  0 보다 클때 횟수만큼 반복 
+ 
+ CCMoveTo : duration, x, y [지정된 위치로 이동]
+ 
+ CCMoveBy : duration, x, y [현재 위치에서 지정된 위치만큼 이동]
+ 
+ CCRotateTo : duration , angle [시계방향을 +로 해서 지정된 각도로 회전]
+ 
+ CCRotateBy : duration , angle [시계방향을 +로 해서 현재 각도에서 지정된 각도만큼 회전]
+ 
+ CCSkewTo : duration , skew_x , skew_y [지정된 값 만큼 비틀림(최대 90까지, 90 이상은 방향이 반대로)]
+ 
+ CCSkewBy : duration , skew_x , skew_y [현재 상태에서 지정된 값 만큼 비틀림(최대 90까지, 90 이상은 방향이 반대로)]
+ 
+ CCScaleTo : duration, scale_x , scale_y [원래 크기를 기준으로 지정된 크기로 확대/축소(width, height 따로지정가능)]
+ 
+ CCScaleBy : duration, scale_x , scale_y [현재 크기를 기준으로 지정된 크기로 확대/축소 (width, height 따로지정가능)]
+ 
+ CCJumpTo :  duration, x , y , height , jumps [지정된 위치로 지정된 높이만큼 지정된 점프수만큼 점프하면서 이동]
+
+ CCJumpBy :  duration, x, y , height , jumps [현재 위치로 지정된 높이만큼 지정된 점프수만큼 점프하면서 이동]
+ 
+ CCTintTo : duration r, g ,b [ 지정된 칼라로 변경 ]
+ 
+ CCTintBy ;  duration r, ,g ,b [ 현재 칼라에서 지정된 칼라로 변경]
+
+ CCBlink : duration , blinks [ 정해진 시간동안 정해진 횟수 만큼 깜빡 거림]
+ 
+ CCFadeIn ; duration [ 정해진 시간동안 서서히 나타남]
+ 
+ CCFadeOut : duration [ 정해진 시간동안 서서히 없어짐]
+ 
+ CCAnimation : duration [정해진 시간동안 애니메이션], file , count
+
+-->

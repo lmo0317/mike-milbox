@@ -1,0 +1,13 @@
+<DefaultDataTemplate>
+    <DEFAULT>
+        <Name>DEFAULT_DATA</Name>
+        <LIFE>5</LIFE>
+        <HEART>1</HEART>
+        <CONTINUE_COUNT>3</CONTINUE_COUNT>
+        
+        <SOUND  id = "COIN_LIFE_UP"   category = "0" value = "lifeup.wav"></SOUND>
+        <SOUND  id = "CLEAR_TIME"     category = "0" value = "timescore.wav"></SOUND>
+        <SOUND  id = "PORTAL"         category = "0" value = "warp.wav"></SOUND>
+        
+    </DEFAULT>
+</DefaultDataTemplate> 

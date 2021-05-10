@@ -1,0 +1,6 @@
+<HitBoxDataTemplate>
+    <HIT_BOX_DATA>
+        <Name>hitdata01</Name>
+        <LIFE_TIME>0.1</LIFE_TIME>
+    </HIT_BOX_DATA>
+</HitBoxDataTemplate> 

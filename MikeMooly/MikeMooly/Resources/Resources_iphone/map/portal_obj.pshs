@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_INFO</key>
+	<array>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>portal1_1</string>
+				<string>portal1_2</string>
+				<string>portal1_3</string>
+				<string>portal1_4</string>
+				<string>portal1_5</string>
+				<string>portal1_6</string>
+				<string>portal1_7</string>
+				<string>portal1_8</string>
+			</array>
+			<key>Loop</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>portal_active</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>portal1_1</string>
+				<string>portal1_2</string>
+				<string>portal1_3</string>
+				<string>portal1_4</string>
+				<string>portal1_5</string>
+				<string>portal1_6</string>
+				<string>portal1_7</string>
+				<string>portal1_8</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.05000000074505806</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>portal_ready</string>
+		</dict>
+	</array>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>BatchZOrder</key>
+	<integer>12</integer>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>ImportedImages</key>
+	<array>
+		<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+	</array>
+	<key>ImportedImages-HD</key>
+	<array>
+		<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+	</array>
+	<key>ImportedImages-HD_relative</key>
+	<array>
+		<string>portal_obj-hd.png</string>
+	</array>
+	<key>ImportedImages_relative</key>
+	<array>
+		<string>portal_obj.png</string>
+	</array>
+	<key>SPRITES_INFO</key>
+	<array>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 0}, {64, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 0}, {128, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0}, {0.30476192, 0.24806201}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{67, 0}, {64, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{134, 0}, {128, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0.31904763, 0}, {0.62380952, 0.24806201}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{133, 0}, {64, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{266, 0}, {128, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0.63333333, 0}, {0.93809521, 0.24806201}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_5</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 67}, {64, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 134}, {128, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.25968993}, {0.30476192, 0.50775194}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_6</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 133}, {64, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 266}, {128, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.51550388}, {0.30476192, 0.7635659}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_7</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{67, 67}, {63, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{134, 134}, {126, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0.31904763, 0.25968993}, {0.61904764, 0.50775194}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{132, 67}, {64, 62.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{264, 134}, {128, 125}}</string>
+				<key>FrameUV</key>
+				<string>{{0.62857145, 0.25968993}, {0.93333334, 0.50193799}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_8</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{22.896881, -24.597702}</string>
+						<string>{24.560547, 26.262909}</string>
+						<string>{19.331886, 26.262909}</string>
+						<string>{15.766891, -4.8713989}</string>
+						<string>{20.757881, -28.162689}</string>
+					</array>
+					<array>
+						<string>{-19.883072, -28.162689}</string>
+						<string>{20.757881, -28.162689}</string>
+						<string>{15.766891, -4.8713989}</string>
+						<string>{-15.129738, -5.822052}</string>
+						<string>{-23.210396, -25.54837}</string>
+					</array>
+					<array>
+						<string>{-23.210396, -25.54837}</string>
+						<string>{-15.129738, -5.822052}</string>
+						<string>{-18.932411, 26.500565}</string>
+						<string>{-24.398727, 26.500565}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{163.73386, 379.82538}</string>
+					<string>{245.01576, 379.82538}</string>
+					<string>{249.29376, 372.6954}</string>
+					<string>{252.62109, 270.97418}</string>
+					<string>{242.16377, 270.97418}</string>
+					<string>{235.03378, 333.2428}</string>
+					<string>{173.24052, 335.1441}</string>
+					<string>{165.63518, 270.49887}</string>
+					<string>{154.70255, 270.49887}</string>
+					<string>{157.07921, 374.59674}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{67, 133}, {69.5, 57.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{134, 266}, {139, 115}}</string>
+				<key>FrameUV</key>
+				<string>{{0.31904763, 0.51550388}, {0.64999998, 0.73837209}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>EXIT_trashcan</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<true/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>1</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>52</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{67, 193}, {62, 64}}</string>
+				<key>Frame-HD</key>
+				<string>{{134, 386}, {124, 128}}</string>
+				<key>FrameUV</key>
+				<string>{{0.31904763, 0.74806201}, {0.61428571, 0.99612403}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1_4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{23.350342, -24.080429}</string>
+						<string>{24.664276, 26.881317}</string>
+						<string>{19.220856, 26.881317}</string>
+						<string>{17.25, -15.5}</string>
+						<string>{19.783966, -28.397629}</string>
+					</array>
+					<array>
+						<string>{-19.915512, -28.397629}</string>
+						<string>{19.783966, -28.397629}</string>
+						<string>{17.25, -15.5}</string>
+						<string>{-16.75, -15.5}</string>
+						<string>{-23.200348, -24.737396}</string>
+					</array>
+					<array>
+						<string>{-23.200348, -24.737396}</string>
+						<string>{-16.75, -15.5}</string>
+						<string>{-19.070847, 26.975159}</string>
+						<string>{-24.608124, 26.975159}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{301.0993, 372.47479}</string>
+					<string>{307.66898, 379.79526}</string>
+					<string>{387.06793, 379.79526}</string>
+					<string>{394.20068, 371.16086}</string>
+					<string>{396.82855, 269.23737}</string>
+					<string>{385.94171, 269.23737}</string>
+					<string>{382, 354}</string>
+					<string>{314, 354}</string>
+					<string>{309.35831, 269.04968}</string>
+					<string>{298.28375, 269.04968}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{139, 133}, {69.5, 57}}</string>
+				<key>Frame-HD</key>
+				<string>{{278, 266}, {139, 114}}</string>
+				<key>FrameUV</key>
+				<string>{{0.66190475, 0.51550388}, {0.99285716, 0.7364341}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{23.011887, -23.898651}</string>
+						<string>{24.828735, 26.291901}</string>
+						<string>{19.151077, 26.291901}</string>
+						<string>{10.117188, -4.3999176}</string>
+						<string>{19.605286, -28.213684}</string>
+					</array>
+					<array>
+						<string>{-19.258545, -28.238373}</string>
+						<string>{19.605286, -28.213684}</string>
+						<string>{10.117188, -4.3999176}</string>
+						<string>{-11.187256, -4.3999176}</string>
+						<string>{-23.388046, -24.484283}</string>
+					</array>
+					<array>
+						<string>{-23.388046, -24.484283}</string>
+						<string>{-11.187256, -4.3999176}</string>
+						<string>{-18.789291, 26.759003}</string>
+						<string>{-24.453384, 26.746109}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{300.72391, 491.96857}</string>
+					<string>{308.98291, 499.47675}</string>
+					<string>{386.71057, 499.42737}</string>
+					<string>{393.52377, 490.7973}</string>
+					<string>{397.15747, 390.4162}</string>
+					<string>{385.80215, 390.4162}</string>
+					<string>{367.73438, 451.79984}</string>
+					<string>{325.12549, 451.79984}</string>
+					<string>{309.92142, 389.48199}</string>
+					<string>{298.59323, 389.50778}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{139, 193}, {69.5, 57}}</string>
+				<key>Frame-HD</key>
+				<string>{{278, 386}, {139, 114}}</string>
+				<key>FrameUV</key>
+				<string>{{0.66190475, 0.74806201}, {0.99285716, 0.96899223}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>portal1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{24.252129, -2.902359}</string>
+						<string>{24.762306, -6.473587}</string>
+						<string>{26.08876, -6.5756226}</string>
+						<string>{25.884689, -0.86166382}</string>
+					</array>
+					<array>
+						<string>{24.252129, -2.902359}</string>
+						<string>{25.884689, -0.86166382}</string>
+						<string>{22.925682, 1.89328}</string>
+						<string>{8.4367332, 1.9953156}</string>
+						<string>{-11.153941, -2.902359}</string>
+					</array>
+					<array>
+						<string>{-24.622551, -6.269516}</string>
+						<string>{-24.112373, -2.902359}</string>
+						<string>{-26.164978, -0.75001526}</string>
+						<string>{-26.153076, -6.5756226}</string>
+					</array>
+					<array>
+						<string>{-24.112373, -2.902359}</string>
+						<string>{-11.153939, -2.902359}</string>
+						<string>{8.4367332, 1.9953156}</string>
+						<string>{-22.785927, 1.9953156}</string>
+						<string>{-26.164978, -0.75001526}</string>
+					</array>
+					<array>
+						<string>{8.4367332, 1.9953156}</string>
+						<string>{8.4367332, 5.8726349}</string>
+						<string>{-8.6030807, 5.8726349}</string>
+						<string>{-8.6030807, 1.9953156}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{1.1938477, 426.65125}</string>
+					<string>{4.2548981, 426.03903}</string>
+					<string>{5.2752533, 419.30472}</string>
+					<string>{102.00426, 419.30472}</string>
+					<string>{103.02461, 426.44717}</string>
+					<string>{105.67752, 426.65125}</string>
+					<string>{105.26938, 415.22333}</string>
+					<string>{99.351364, 409.71344}</string>
+					<string>{70.373466, 409.50937}</string>
+					<string>{70.373466, 401.75473}</string>
+					<string>{36.293839, 401.75473}</string>
+					<string>{36.293839, 409.50937}</string>
+					<string>{7.9281464, 409.50937}</string>
+					<string>{1.1700439, 415.00003}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 200}, {53.5, 13.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 400}, {107, 27}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.77519381}, {0.2547619, 0.82751936}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>trashcan_cover</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 216}, {11.5, 10.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 432}, {23, 21}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.83720928}, {0.054761905, 0.87790698}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>trash1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 229}, {10.5, 10.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 458}, {21, 21}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.88759691}, {0.050000001, 0.9282946}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>trash2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>3</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{200, 0}, {10, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{400, 0}, {20, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.95238096, 0}, {1, 0.03875969}}</string>
+				<key>HD_ImageSize</key>
+				<string>{420, 516}</string>
+				<key>Image</key>
+				<string>portal_obj.png</string>
+				<key>Image-HD</key>
+				<string>portal_obj-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/portal_obj-hd.png</string>
+				<key>Name</key>
+				<string>trash3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{210, 258}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.89399999, 0.89399999}, {0.89399999, 1}}</string>
+		<key>GridSize</key>
+		<integer>32</integer>
+	</dict>
+	<key>Version</key>
+	<string>1.7.5</string>
+</dict>
+</plist>

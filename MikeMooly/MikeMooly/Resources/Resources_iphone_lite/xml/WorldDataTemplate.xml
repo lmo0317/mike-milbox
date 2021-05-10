@@ -1,0 +1,581 @@
+<WorldDataTemplate>
+    <WORLD>
+        <Name>DEFAULT</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>title.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>default</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+        
+    </WORLD>
+    
+    <WORLD>
+        <Name>StageSelect</Name>
+        <TYPE>STAGE_SELECT</TYPE>
+        <BGM>title.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>stageselect</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+        
+    </WORLD>
+    
+    <WORLD>
+        <Name>title</Name>
+        <TYPE>TITLE</TYPE>
+        <BGM>title.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>title</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+        
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>credit</Name>
+        <TYPE>CREDIT</TYPE>
+        <BGM>title.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>credit</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>option</Name>
+        <TYPE>OPTION</TYPE>
+        <BGM>title.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>credit</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+        
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>gameover</Name>
+        <TYPE>GAME_OVER</TYPE>
+        <BGM>bgm5.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>gameover</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    
+    <WORLD>
+        <Name>continue</Name>
+        <TYPE>CONTINUE</TYPE>
+        <BGM>bgm5.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>continue</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+        
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>test2</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>1</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+        
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>farm_1</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>1</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>farm_2</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-2</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>farm_3</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-3</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>farm_4</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-4</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>farm_5</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-5</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>farm_6</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm1.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>farm</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>1</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>1-6</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_farm.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>jungle_1</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm2.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>jungle</GROUP>
+        <GROUP_FIRST>1</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>2-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_jungle.png</UI_STAGE_SPRITE>        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>jungle_2</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm2.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>jungle</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>2-2</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_jungle.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>jungle_3</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm2.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>jungle</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>2-3</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_jungle.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>jungle_4</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm2.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>jungle</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>2-4</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_jungle.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>jungle_5</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm2.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>jungle</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>2-5</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_jungle.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>jungle_6</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm2.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>jungle</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>1</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>2-6</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_jungle.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+        
+    <WORLD>
+        <Name>warehouse_1</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm3.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>warehouse</GROUP>
+        <GROUP_FIRST>1</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>3-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_lab.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>warehouse_2</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm3.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>warehouse</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>3-2</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_lab.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>warehouse_3</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm3.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>warehouse</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>3-3</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_lab.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>warehouse_4</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm3.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>warehouse</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>3-4</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_lab.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>warehouse_5</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm3.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>warehouse</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>3-5</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_lab.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>warehouse_6</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm3.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>warehouse</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>1</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>3-6</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_lab.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>cave_1</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm4.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>cave</GROUP>
+        <GROUP_FIRST>1</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>4-1</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_cave.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>cave_2</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm4.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>cave</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>4-2</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_cave.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>cave_3</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm4.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>cave</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>4-3</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_cave.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>cave_4</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm4.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>cave</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>4-4</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_cave.png</UI_STAGE_SPRITE>        
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>cave_5</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm4.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>cave</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>0</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>4-5</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_cave.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+    
+    <WORLD>
+        <Name>cave_6</Name>
+        <TYPE>GAME</TYPE>
+        <BGM>bgm4.mp3</BGM>
+        <TIME>200</TIME>
+        <GROUP>cave</GROUP>
+        <GROUP_FIRST>0</GROUP_FIRST>
+        <GROUP_END>1</GROUP_END>
+        
+        <MISSION_TIME>100</MISSION_TIME>
+        <MISSION_DAMAGE>0</MISSION_DAMAGE>
+
+        <UI_STAGE_NAME>4-6</UI_STAGE_NAME>
+        <UI_STAGE_SPRITE>stagename_cave.png</UI_STAGE_SPRITE>
+        <SOUND_PRELOAD value = "A1_10204.WAV"></SOUND_PRELOAD>
+        <SOUND_PRELOAD value = "A5_01016.WAV"></SOUND_PRELOAD>
+    </WORLD>
+</WorldDataTemplate> 

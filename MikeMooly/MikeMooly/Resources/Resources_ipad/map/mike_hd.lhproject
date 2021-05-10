@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoGenerateCode</key>
+	<false/>
+	<key>CodePathRelative</key>
+	<string>../../../Source/Core/LevelHelper/</string>
+	<key>CustomScreenSize</key>
+	<string>{480, 320}</string>
+	<key>Engine</key>
+	<integer>0</integer>
+	<key>LastLevelLoaded</key>
+	<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_ipad/map/continue.plhs</string>
+	<key>LevelsPathRelative</key>
+	<string>./</string>
+	<key>ProjectName</key>
+	<string>mike_hd</string>
+	<key>SHScenesPathRelative</key>
+	<string>./</string>
+	<key>ScreenSize</key>
+	<integer>1</integer>
+	<key>Tags</key>
+	<array>
+		<string>DEFAULT</string>
+		<string>PLAYER</string>
+		<string>ENEMY01</string>
+		<string>ENEMY02</string>
+		<string>ENEMY03</string>
+		<string>ENEMY04</string>
+		<string>ENEMY05</string>
+		<string>ENEMY06</string>
+		<string>ENEMY07</string>
+		<string>ENEMY08</string>
+		<string>ENEMY09</string>
+		<string>ENEMY10</string>
+		<string>BLOCK01</string>
+		<string>BLOCK02</string>
+		<string>BLOCK03</string>
+		<string>BLOCK04</string>
+		<string>BLOCK05</string>
+		<string>BLOCK06</string>
+		<string>BLOCK07</string>
+		<string>BLOCK08</string>
+		<string>BLOCK09</string>
+		<string>BLOCK10</string>
+		<string>FOOTHOLD01</string>
+		<string>FIELDITEM01</string>
+		<string>FIELDITEM02</string>
+		<string>FIELDITEM03</string>
+		<string>FIELDITEM04</string>
+		<string>FIELDITEM05</string>
+		<string>FIELDITEM06</string>
+		<string>FIELDITEM07</string>
+		<string>FIELDITEM08</string>
+		<string>FIELDITEM09</string>
+		<string>FIELDITEM10</string>
+		<string>PLATFORM01</string>
+		<string>SHOOT01</string>
+		<string>HITDATA01</string>
+		<string>EVENT_BOX_PORTAL01</string>
+		<string>EVENT_BOX_STAGE_CLEAR01</string>
+		<string>EVENT_BOX_CHECK_POINT01</string>
+		<string>GIMMICK01</string>
+		<string>BACK_GROUND01</string>
+		<string>EVENT_BOX_POSITION01</string>
+	</array>
+</dict>
+</plist>

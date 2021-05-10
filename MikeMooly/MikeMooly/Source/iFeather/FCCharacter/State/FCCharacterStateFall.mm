@@ -1,0 +1,22 @@
+#include "FCCharacterStateFall.h"
+
+const bool FCCharacterStateFall::SetState(const int nState)
+{
+    switch(nState)
+    {
+        case STATE_WALK:
+        case STATE_RUN:
+        case STATE_JUMP:
+        case STATE_JUMP2:
+        case STATE_BOUNCE:
+        case STATE_FLY:
+        case STATE_FALL:
+        case STATE_LANDING:
+        case STATE_STAY:
+        case STATE_DAMAGE:
+        case STATE_DEATH:
+            return true;
+    }
+    
+    return false;
+}

@@ -1,0 +1,35 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>MainOptionWindow</Name>
+
+        <CONTROL id = "bar_stage_menu" type = "sprite" img1 = "bar_stage_menu.png" x = "240" y = "0" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "512" height = "384" ></CONTROL>
+        
+        
+        <CONTROL id = "option" type = "label" x = "240" y = "150" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "OPTION"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "close" type = "button" img1 = "close_button.png" img2 = "close_button.png" x = "460" y = "160" z = "6" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+  
+        <CONTROL id = "sound" type = "sprite" img1 = "sound.png" x = "100" y = "120" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "81" height = "18" ></CONTROL>
+       
+        <CONTROL id = "bgm" type = "check_button" img1 = "bgm_off.png" img2 = "bgm_on.png" x = "110" y = "80" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "sfx" type = "check_button" img1 = "sfx_off.png" img2 = "sfx_on.png" x = "110" y = "50" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "controller_setting" type = "sprite" img1 = "controller_setting.png" x = "345" y = "120" z = "2" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "231" height = "18" ></CONTROL>
+        
+        <CONTROL id = "controller_type1" type = "check_button" img1 = "controller_type1_off.png" img2 = "controller_type1_on.png" x = "280" y = "60" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "controller_type2" type = "check_button" img1 = "controller_type2_off.png" img2 = "controller_type2_on.png" x = "410" y = "60" z = "2"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+    </Window>
+</WindowDataTemplate>

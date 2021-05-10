@@ -1,0 +1,114 @@
+<SaveDataTemplate>
+    <SAVE_DATA>
+        <Name>slot_00</Name>
+        <LIFE>5</LIFE>
+        <HEART>1</HEART>
+        <CONTINUE_COUNT>3</CONTINUE_COUNT>
+        <SCORE>0</SCORE>
+        <COIN>0</COIN>
+        
+        <WORLD id = "farm_1" open = "1" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "jungle_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+
+        <WORLD id = "warehouse_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "cave_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+    </SAVE_DATA>
+    
+    <SAVE_DATA>
+        <Name>slot_01</Name>
+        <LIFE>5</LIFE>
+        <HEART>1</HEART>
+        <CONTINUE_COUNT>3</CONTINUE_COUNT>
+        <SCORE>0</SCORE>
+        <COIN>0</COIN>
+        
+        <WORLD id = "farm_1" open = "1" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "jungle_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "warehouse_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "cave_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+    </SAVE_DATA>
+    
+    <SAVE_DATA>
+        <Name>slot_02</Name>
+        <LIFE>5</LIFE>
+        <HEART>1</HEART>
+        <CONTINUE_COUNT>3</CONTINUE_COUNT>
+        <SCORE>0</SCORE>
+        <COIN>0</COIN>
+        
+        <WORLD id = "farm_1" open = "1" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "farm_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "jungle_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "jungle_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "warehouse_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "warehouse_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        
+        <WORLD id = "cave_1" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_2" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_3" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_4" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_5" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+        <WORLD id = "cave_6" open = "0" lock ="0" mission_time = "0" mission_coin ="0" mission_damage = "0"> </WORLD>
+    </SAVE_DATA>
+    
+    
+</SaveDataTemplate> 

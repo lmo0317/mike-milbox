@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_INFO</key>
+	<array>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>fore_basket2</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_walk</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>fore_basket2</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_stay</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_jump1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+				<string>fore_basket2</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_jump2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>fore_basket2</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_fall</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>fore_basket2</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>kart1_dying</string>
+		</dict>
+	</array>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>BatchZOrder</key>
+	<integer>20</integer>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>ImportedImages</key>
+	<array>
+		<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1.png</string>
+	</array>
+	<key>ImportedImages-HD</key>
+	<array>
+		<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1-hd.png</string>
+	</array>
+	<key>ImportedImages-HD_relative</key>
+	<array>
+		<string>object_fore1-hd.png</string>
+	</array>
+	<key>ImportedImages_relative</key>
+	<array>
+		<string>object_fore1.png</string>
+	</array>
+	<key>SPRITES_INFO</key>
+	<array>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{42.661491, 11.705926}</string>
+						<string>{42.661491, 16.587414}</string>
+						<string>{37.479813, 16.596439}</string>
+						<string>{35.877045, 11.705926}</string>
+					</array>
+					<array>
+						<string>{-43.136871, 11.747297}</string>
+						<string>{-36.47654, 11.747297}</string>
+						<string>{-37.841698, 16.670155}</string>
+						<string>{-43.136871, 16.670155}</string>
+					</array>
+					<array>
+						<string>{-37.841698, 16.670155}</string>
+						<string>{-32.091473, 17.704369}</string>
+						<string>{-38.131279, 17.704369}</string>
+					</array>
+					<array>
+						<string>{-32.853592, -0.04323864}</string>
+						<string>{-23.702133, -10.53606}</string>
+						<string>{-32.091473, 17.704369}</string>
+						<string>{-37.841698, 16.670155}</string>
+					</array>
+					<array>
+						<string>{-23.702133, -10.53606}</string>
+						<string>{-27.597855, -17.147537}</string>
+						<string>{27.07177, -17.147537}</string>
+						<string>{23.30101, -10.550354}</string>
+					</array>
+					<array>
+						<string>{35.877045, 11.705926}</string>
+						<string>{37.479813, 16.596439}</string>
+						<string>{37.573158, 17.704365}</string>
+						<string>{31.781563, 17.704365}</string>
+						<string>{23.30101, -10.550354}</string>
+					</array>
+					<array>
+						<string>{-27.597855, -17.147537}</string>
+						<string>{-23.702133, -10.53606}</string>
+						<string>{-32.853592, -0.04323864}</string>
+					</array>
+					<array>
+						<string>{23.30101, -10.550354}</string>
+						<string>{32.210735, -0.30797958}</string>
+						<string>{35.877045, 11.705926}</string>
+					</array>
+					<array>
+						<string>{27.07177, -17.147537}</string>
+						<string>{32.210735, -0.30797768}</string>
+						<string>{23.30101, -10.550354}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{14.046921, 12.505404}</string>
+					<string>{31.804291, 70.295074}</string>
+					<string>{141.14354, 70.295074}</string>
+					<string>{158.75409, 12.588148}</string>
+					<string>{172.32298, 12.588148}</string>
+					<string>{172.32298, 2.8251724}</string>
+					<string>{161.95963, 2.8071213}</string>
+					<string>{162.14632, 0.59127045}</string>
+					<string>{150.56313, 0.59127045}</string>
+					<string>{133.60202, 57.100708}</string>
+					<string>{39.595734, 57.072121}</string>
+					<string>{22.817055, 0.59126282}</string>
+					<string>{10.737442, 0.59126282}</string>
+					<string>{11.316605, 2.6596909}</string>
+					<string>{0.72625732, 2.6596909}</string>
+					<string>{0.72625732, 12.505404}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 0}, {87, 36}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 0}, {174, 72}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0}, {0.98863637, 0.5625}}</string>
+				<key>HD_ImageSize</key>
+				<string>{176, 128}</string>
+				<key>Image</key>
+				<string>object_fore1.png</string>
+				<key>Image-HD</key>
+				<string>object_fore1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1-hd.png</string>
+				<key>Name</key>
+				<string>fore_basket2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{88, 64}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-16.32864, -6.3569794}</string>
+						<string>{-16.32864, 11.968597}</string>
+						<string>{-19.505074, 11.88715}</string>
+						<string>{-19.667969, -8.5560493}</string>
+					</array>
+					<array>
+						<string>{19.75238, -8.2302666}</string>
+						<string>{19.833828, 11.88715}</string>
+						<string>{16.087265, 11.968597}</string>
+						<string>{16.25016, -6.3569794}</string>
+					</array>
+					<array>
+						<string>{15.924374, -12.139713}</string>
+						<string>{19.75238, -8.2302666}</string>
+						<string>{16.25016, -6.3569794}</string>
+						<string>{13.969643, -8.6374931}</string>
+					</array>
+					<array>
+						<string>{-19.667969, -8.5560493}</string>
+						<string>{-15.595619, -12.139713}</string>
+						<string>{-14.292467, -8.5560493}</string>
+						<string>{-16.32864, -6.3569794}</string>
+					</array>
+					<array>
+						<string>{-15.595619, -12.139713}</string>
+						<string>{15.924374, -12.139713}</string>
+						<string>{13.969643, -8.6374931}</string>
+						<string>{-14.292467, -8.5560493}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{7.34272, 115.71396}</string>
+					<string>{11.415066, 120.1121}</string>
+					<string>{67.939285, 120.27499}</string>
+					<string>{72.50032, 115.71396}</string>
+					<string>{72.17453, 79.062805}</string>
+					<string>{79.667656, 79.2257}</string>
+					<string>{79.504761, 119.46053}</string>
+					<string>{71.848747, 127.27943}</string>
+					<string>{8.8087616, 127.27943}</string>
+					<string>{0.6640625, 120.1121}</string>
+					<string>{0.98985291, 79.2257}</string>
+					<string>{7.34272, 79.062805}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 39}, {40, 25}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 78}, {80, 50}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.609375}, {0.45454547, 1}}</string>
+				<key>HD_ImageSize</key>
+				<string>{176, 128}</string>
+				<key>Image</key>
+				<string>object_fore1.png</string>
+				<key>Image-HD</key>
+				<string>object_fore1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1-hd.png</string>
+				<key>Name</key>
+				<string>fore_basket</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{88, 64}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{43, 39}, {14, 14}}</string>
+				<key>Frame-HD</key>
+				<string>{{86, 78}, {28, 28}}</string>
+				<key>FrameUV</key>
+				<string>{{0.48863637, 0.609375}, {0.64772725, 0.828125}}</string>
+				<key>HD_ImageSize</key>
+				<string>{176, 128}</string>
+				<key>Image</key>
+				<string>object_fore1.png</string>
+				<key>Image-HD</key>
+				<string>object_fore1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/map/object_fore1-hd.png</string>
+				<key>Name</key>
+				<string>fore_wheel1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{88, 64}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.89399999, 0.89399999}, {0.89399999, 1}}</string>
+		<key>GridSize</key>
+		<integer>32</integer>
+	</dict>
+	<key>Version</key>
+	<string>1.7.5</string>
+</dict>
+</plist>

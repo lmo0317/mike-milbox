@@ -1,0 +1,2099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_INFO</key>
+	<array>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>mukiki_shoot</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>mukiki_shoot2</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>megdehog</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.40000000596046448</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>mukiki_jump</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>shoot_l1</string>
+		</dict>
+		<dict>
+			<key>Frames</key>
+			<array>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+				<string>mukiki</string>
+			</array>
+			<key>Loop</key>
+			<false/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>Speed</key>
+			<real>0.10000000149011612</real>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>shoot_r1</string>
+		</dict>
+	</array>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>BatchZOrder</key>
+	<integer>10</integer>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>ImportedImages</key>
+	<array>
+		<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+	</array>
+	<key>ImportedImages-HD</key>
+	<array>
+		<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+	</array>
+	<key>ImportedImages-HD_relative</key>
+	<array>
+		<string>forest_obj1-hd.png</string>
+	</array>
+	<key>ImportedImages_relative</key>
+	<array>
+		<string>forest_obj1.png</string>
+	</array>
+	<key>SPRITES_INFO</key>
+	<array>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{64.627533, -6.7355042}</string>
+						<string>{96.218246, -6.7355042}</string>
+						<string>{96.218246, 6.4198303}</string>
+						<string>{64.538055, 6.4198303}</string>
+					</array>
+					<array>
+						<string>{-64.5, -7}</string>
+						<string>{-64, 6.5}</string>
+						<string>{-95.5, 6}</string>
+						<string>{-96, -7}</string>
+					</array>
+					<array>
+						<string>{-64.5, -7}</string>
+						<string>{-56.5, -30.5}</string>
+						<string>{54.5, -34}</string>
+						<string>{56.5, 30.5}</string>
+						<string>{7, 63.5}</string>
+						<string>{-33.5, 54.5}</string>
+						<string>{-56.5, 32}</string>
+						<string>{-64, 6.5}</string>
+					</array>
+					<array>
+						<string>{-31, -57}</string>
+						<string>{-7, -64.5}</string>
+						<string>{6.5, -65}</string>
+						<string>{30.5, -57}</string>
+						<string>{54.5, -34}</string>
+						<string>{-56.5, -30.5}</string>
+					</array>
+					<array>
+						<string>{-6.5, 64}</string>
+						<string>{7, 63.5}</string>
+						<string>{6.9051743, 96.269836}</string>
+						<string>{-6.6081314, 96.180359}</string>
+					</array>
+					<array>
+						<string>{54.5, -34}</string>
+						<string>{64.627533, -6.7355042}</string>
+						<string>{64.538055, 6.4198303}</string>
+						<string>{56.5, 30.5}</string>
+						<string>{6.5, -65}</string>
+						<string>{30.5, -57}</string>
+					</array>
+					<array>
+						<string>{-33.5, 54.5}</string>
+						<string>{7, 63.5}</string>
+						<string>{-6.5, 64}</string>
+					</array>
+					<array>
+						<string>{-6.3261566, -96.191467}</string>
+						<string>{6.8168335, -96.304749}</string>
+						<string>{6.5, -65}</string>
+						<string>{-7, -64.5}</string>
+					</array>
+					<array>
+						<string>{7, 63.5}</string>
+						<string>{56.5, 30.5}</string>
+						<string>{35.028915, 54.15979}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.0</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{127, 85}</string>
+					<string>{81, 130}</string>
+					<string>{66, 181}</string>
+					<string>{3, 182}</string>
+					<string>{2, 208}</string>
+					<string>{65, 208}</string>
+					<string>{81, 255}</string>
+					<string>{132, 308}</string>
+					<string>{180, 323}</string>
+					<string>{181.34769, 386.38293}</string>
+					<string>{207.63367, 386.6095}</string>
+					<string>{207, 324}</string>
+					<string>{255, 308}</string>
+					<string>{303, 262}</string>
+					<string>{323.25507, 207.47101}</string>
+					<string>{386.43649, 207.47101}</string>
+					<string>{386.43649, 181.16034}</string>
+					<string>{323.07611, 181.16034}</string>
+					<string>{307, 133}</string>
+					<string>{264.05783, 85.68042}</string>
+					<string>{208, 67}</string>
+					<string>{207.81035, 1.4603271}</string>
+					<string>{180.78374, 1.6392822}</string>
+					<string>{181, 66}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 0}, {194, 194}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 0}, {388, 388}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0}, {0.39430895, 0.49238577}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>wheel</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>3</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{197, 0}, {294, 91.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{394, 0}, {588, 183}}</string>
+				<key>FrameUV</key>
+				<string>{{0.40040651, 0}, {0.99796748, 0.23223351}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>grass2_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-65.25, -25.25}</string>
+						<string>{-47.25, -39.75}</string>
+						<string>{-49.25, -5.25}</string>
+						<string>{-75.75, -8.25}</string>
+					</array>
+					<array>
+						<string>{63.75, -26.75}</string>
+						<string>{76.25, -7.25}</string>
+						<string>{52.75, -6.25}</string>
+						<string>{45.75, -41.25}</string>
+					</array>
+					<array>
+						<string>{45.75, -41.25}</string>
+						<string>{52.75, -6.25}</string>
+						<string>{25.25, 2.25}</string>
+						<string>{-23.75, 3.25}</string>
+						<string>{-26.25, -49.25}</string>
+						<string>{-1.25, -52.25}</string>
+						<string>{21.75, -49.75}</string>
+					</array>
+					<array>
+						<string>{-26.25, -49.25}</string>
+						<string>{-23.75, 3.25}</string>
+						<string>{-49.25, -5.25}</string>
+						<string>{-47.25, -39.75}</string>
+					</array>
+					<array>
+						<string>{-14.75, 12.25}</string>
+						<string>{14.75, 12.25}</string>
+						<string>{12.75, 28.25}</string>
+						<string>{5.25, 31.75}</string>
+						<string>{-4.75, 31.25}</string>
+						<string>{-13.25, 28.25}</string>
+					</array>
+					<array>
+						<string>{-23.75, 3.25}</string>
+						<string>{25.25, 2.25}</string>
+						<string>{14.75, 12.25}</string>
+						<string>{-14.75, 12.25}</string>
+					</array>
+					<array>
+						<string>{-4.75, 31.25}</string>
+						<string>{5.25, 31.75}</string>
+						<string>{5.25, 41.25}</string>
+						<string>{-4.75, 41.25}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.0</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{149, 602}</string>
+					<string>{195, 597}</string>
+					<string>{243, 580}</string>
+					<string>{279, 551}</string>
+					<string>{304, 512}</string>
+					<string>{257, 510}</string>
+					<string>{202, 493}</string>
+					<string>{181, 473}</string>
+					<string>{177, 441}</string>
+					<string>{162, 434}</string>
+					<string>{162, 415}</string>
+					<string>{142, 415}</string>
+					<string>{142, 435}</string>
+					<string>{125, 441}</string>
+					<string>{122, 473}</string>
+					<string>{104, 491}</string>
+					<string>{53, 508}</string>
+					<string>{0, 514}</string>
+					<string>{21, 548}</string>
+					<string>{57, 577}</string>
+					<string>{99, 596}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 197}, {151.5, 103.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 394}, {303, 207}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.5}, {0.30792683, 0.76269037}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>scythe_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>10</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{105.1701, 0.56829834}</string>
+						<string>{127.81158, -15.956482}</string>
+						<string>{127.81158, 0.61764526}</string>
+					</array>
+					<array>
+						<string>{-104.96631, 0.51889038}</string>
+						<string>{-127.80504, -15.907227}</string>
+						<string>{127.81158, -15.956482}</string>
+						<string>{105.1701, 0.56829834}</string>
+					</array>
+					<array>
+						<string>{-127.80504, -15.907227}</string>
+						<string>{-104.96631, 0.51889038}</string>
+						<string>{-127.80504, 0.56826782}</string>
+					</array>
+					<array>
+						<string>{-104.96631, 0.51889038}</string>
+						<string>{-104.96631, 16.007843}</string>
+						<string>{-111.42825, 16.007812}</string>
+						<string>{-111.42825, 0.56820679}</string>
+					</array>
+					<array>
+						<string>{105.1701, 0.56829834}</string>
+						<string>{111.43475, 0.61764526}</string>
+						<string>{111.43475, 15.909271}</string>
+						<string>{105.1701, 15.909271}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{394.38992, 218.86346}</string>
+					<string>{427.14349, 218.86359}</string>
+					<string>{427.14349, 187.98438}</string>
+					<string>{440.06738, 187.98431}</string>
+					<string>{440.06738, 218.96222}</string>
+					<string>{860.34021, 218.8634}</string>
+					<string>{860.34021, 188.18146}</string>
+					<string>{872.86951, 188.18146}</string>
+					<string>{872.86951, 218.76471}</string>
+					<string>{905.62317, 218.76471}</string>
+					<string>{905.62317, 251.91296}</string>
+					<string>{394.38992, 251.81445}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{197, 94}, {256, 32}}</string>
+				<key>Frame-HD</key>
+				<string>{{394, 188}, {512, 64}}</string>
+				<key>FrameUV</key>
+				<string>{{0.40040651, 0.23857868}, {0.92073172, 0.31979695}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>lumber2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>5</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{197, 129}, {267.5, 12}}</string>
+				<key>Frame-HD</key>
+				<string>{{394, 258}, {535, 24}}</string>
+				<key>FrameUV</key>
+				<string>{{0.40040651, 0.32741117}, {0.94410568, 0.35786802}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>lumber_2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>3</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 303}, {57.5, 47}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 606}, {115, 94}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.76903552}, {0.11686992, 0.88832486}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>rock1_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>1</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{6.554657, -37.684784}</string>
+						<string>{11.432281, -42.867249}</string>
+						<string>{11.432281, -29.530029}</string>
+						<string>{6.554657, -29.530029}</string>
+					</array>
+					<array>
+						<string>{-6.0204315, -37.684784}</string>
+						<string>{-11.507751, -42.867249}</string>
+						<string>{11.432281, -42.867249}</string>
+						<string>{6.554657, -37.684784}</string>
+					</array>
+					<array>
+						<string>{-11.507751, -42.867249}</string>
+						<string>{-6.0204315, -37.684784}</string>
+						<string>{-6.0204315, 42.871964}</string>
+						<string>{-11.507721, 42.871994}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{308.9845, 566.7345}</string>
+					<string>{354.86456, 566.7345}</string>
+					<string>{354.86456, 540.06006}</string>
+					<string>{345.10931, 540.06006}</string>
+					<string>{345.10931, 556.36957}</string>
+					<string>{319.95914, 556.36957}</string>
+					<string>{319.95914, 395.25607}</string>
+					<string>{308.98456, 395.25601}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{154, 197}, {24, 87}}</string>
+				<key>Frame-HD</key>
+				<string>{{308, 394}, {48, 174}}</string>
+				<key>FrameUV</key>
+				<string>{{0.31300813, 0.5}, {0.36178863, 0.7208122}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>lever_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.0</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{60, 303}, {128, 16}}</string>
+				<key>Frame-HD</key>
+				<string>{{120, 606}, {256, 32}}</string>
+				<key>FrameUV</key>
+				<string>{{0.12195122, 0.76903552}, {0.38211381, 0.8096447}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>tree1x4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.0</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{60, 321}, {96, 16}}</string>
+				<key>Frame-HD</key>
+				<string>{{120, 642}, {192, 32}}</string>
+				<key>FrameUV</key>
+				<string>{{0.12195122, 0.81472081}, {0.31707317, 0.85532993}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>tree1x3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 352}, {38.5, 36}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 704}, {77, 72}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.89340103}, {0.078252032, 0.98477155}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>mukiki</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{60, 340}, {35, 31.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{120, 680}, {70, 63}}</string>
+				<key>FrameUV</key>
+				<string>{{0.12195122, 0.86294419}, {0.19308943, 0.94289339}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>megdehog</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.0</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{98, 340}, {64, 16}}</string>
+				<key>Frame-HD</key>
+				<string>{{196, 680}, {128, 32}}</string>
+				<key>FrameUV</key>
+				<string>{{0.199187, 0.86294419}, {0.32926831, 0.90355331}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>tree1x2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>3</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{98, 358}, {40, 25.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{196, 716}, {80, 51}}</string>
+				<key>FrameUV</key>
+				<string>{{0.199187, 0.90862942}, {0.28048781, 0.97335023}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>grass1_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>1</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{16.25592, -6.9975281}</string>
+						<string>{19.660767, -9.2084656}</string>
+						<string>{19.660767, 12.060669}</string>
+						<string>{16.25592, 12.060669}</string>
+					</array>
+					<array>
+						<string>{14.840942, -8.5451965}</string>
+						<string>{16.211716, -12.215332}</string>
+						<string>{19.660767, -9.2084656}</string>
+						<string>{16.25592, -6.9975281}</string>
+					</array>
+					<array>
+						<string>{-19.738007, -9.0315857}</string>
+						<string>{-16.55426, -12.171112}</string>
+						<string>{-14.785522, -8.5451965}</string>
+						<string>{-16.200516, -6.9533081}</string>
+					</array>
+					<array>
+						<string>{-19.729706, 12.132324}</string>
+						<string>{-19.738007, -9.0315857}</string>
+						<string>{-16.200516, -6.9533081}</string>
+						<string>{-16.200516, 12.149109}</string>
+					</array>
+					<array>
+						<string>{-14.785522, -8.5451965}</string>
+						<string>{-16.55426, -12.171112}</string>
+						<string>{16.211716, -12.215332}</string>
+						<string>{14.840942, -8.5451965}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.40000000596046448</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{280.52399, 759.06317}</string>
+					<string>{286.89148, 765.34222}</string>
+					<string>{352.42343, 765.43066}</string>
+					<string>{359.32153, 759.41693}</string>
+					<string>{359.32153, 716.87866}</string>
+					<string>{352.51184, 716.87866}</string>
+					<string>{352.51184, 754.99506}</string>
+					<string>{349.68188, 758.09039}</string>
+					<string>{290.42896, 758.09039}</string>
+					<string>{287.59897, 754.90662}</string>
+					<string>{287.59897, 716.70178}</string>
+					<string>{280.54059, 716.73535}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{140, 358}, {40, 25}}</string>
+				<key>Frame-HD</key>
+				<string>{{280, 716}, {80, 50}}</string>
+				<key>FrameUV</key>
+				<string>{{0.28455284, 0.90862942}, {0.36585367, 0.97208124}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>basket</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.0</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{159, 321}, {32, 16}}</string>
+				<key>Frame-HD</key>
+				<string>{{318, 642}, {64, 32}}</string>
+				<key>FrameUV</key>
+				<string>{{0.32317072, 0.81472081}, {0.38821137, 0.85532993}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>tree1x1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>3</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{455, 94}, {17, 29.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{910, 188}, {34, 59}}</string>
+				<key>FrameUV</key>
+				<string>{{0.92479676, 0.23857868}, {0.95934957, 0.31345177}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>tree_spring</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{60, 374}, {19, 19}}</string>
+				<key>Frame-HD</key>
+				<string>{{120, 748}, {38, 38}}</string>
+				<key>FrameUV</key>
+				<string>{{0.12195122, 0.9492386}, {0.1605691, 0.99746192}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>lumber_1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-8.2302856, -4.2199402}</string>
+						<string>{8.565918, -4.2156372}</string>
+						<string>{-0.0084838867, 4.3482056}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{309.53943, 589.93988}</string>
+					<string>{325.98303, 572.80359}</string>
+					<string>{343.13184, 589.93127}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{154, 286}, {18, 9.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{308, 572}, {36, 19}}</string>
+				<key>FrameUV</key>
+				<string>{{0.31300813, 0.72588831}, {0.34959349, 0.75}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>lumber</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{181, 197}, {5, 15.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{362, 394}, {10, 31}}</string>
+				<key>FrameUV</key>
+				<string>{{0.36788619, 0.5}, {0.37804878, 0.53934008}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>scythe</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>3</integer>
+				<key>Restitution</key>
+				<real>0.0</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{181, 215}, {8, 8}}</string>
+				<key>Frame-HD</key>
+				<string>{{362, 430}, {16, 16}}</string>
+				<key>FrameUV</key>
+				<string>{{0.36788619, 0.54568529}, {0.38414633, 0.56598985}}</string>
+				<key>HD_ImageSize</key>
+				<string>{984, 788}</string>
+				<key>Image</key>
+				<string>forest_obj1.png</string>
+				<key>Image-HD</key>
+				<string>forest_obj1-hd.png</string>
+				<key>ImageURL</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1.png</string>
+				<key>ImageURL-HD</key>
+				<string>/trunk/MikeMooly/MikeMooly/Resources/Resources_iphone/map/forest_obj1-hd.png</string>
+				<key>Name</key>
+				<string>revet</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{492, 394}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.89399999, 0.89399999}, {0.89399999, 1}}</string>
+		<key>GridSize</key>
+		<integer>32</integer>
+	</dict>
+	<key>Version</key>
+	<string>1.7.5</string>
+</dict>
+</plist>

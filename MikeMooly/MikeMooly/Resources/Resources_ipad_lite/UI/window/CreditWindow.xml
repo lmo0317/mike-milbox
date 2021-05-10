@@ -1,0 +1,44 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>CreditWindow</Name>
+        
+        <CONTROL id = "bar_stage_menu" type = "sprite" img1 = "bar_stage_menu.png" x = "240" y = "160" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "512" height = "384" ></CONTROL>
+
+        
+        <CONTROL id = "Who made this?" type = "label" x = "240" y = "240" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "Who Made This?"
+            r = "255" g = "255" b = "255"></CONTROL>
+
+        <CONTROL id = "program" type = "label" x = "230" y = "180" z = "3"
+            anchor_x = "0" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Programming : Minho Lee"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "design" type = "label" x = "230" y = "160" z = "3"
+            anchor_x = "0" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Game Design : Sangwoon Yi"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "character" type = "label" x = "230" y = "140" z = "3"
+            anchor_x = "0" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Character : Sangwoon Yi"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "background" type = "label" x = "230" y = "120" z = "3"
+            anchor_x = "0" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Background : John Doe"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "sound" type = "label" x = "230" y = "100" z = "3"
+            anchor_x = "0" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Sound : ducob media service"
+            r = "255" g = "255" b = "255"></CONTROL>
+
+        <CONTROL id = "menu1" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" img3 = "button_m2_locked.png" x = "445" y = "290" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "icon_main_menu_s" type = "sprite" img1 = "icon_main_menu_s.png" x = "445" y = "290" z = "4" 
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40" ></CONTROL>
+        
+        <CONTROL id = "iconname_menu_s" type = "label" x = "445" y = "255" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Title"
+            r = "255" g = "255" b = "255"></CONTROL>
+
+    </Window>
+</WindowDataTemplate> 

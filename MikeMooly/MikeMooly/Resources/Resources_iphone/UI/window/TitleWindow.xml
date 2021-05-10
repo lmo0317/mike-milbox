@@ -1,0 +1,85 @@
+<WindowDataTemplate>
+    <Window>
+        <Name>TitleWindow</Name>
+        
+        <CONTROL id = "version" type = "label" x = "240" y = "10" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "V 1.01"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "slot_00" type = "button" img1 = "gameslot.png" img2 = "gameslot.png" x = "100" y = "120" z = "2"             anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+     
+        <CONTROL id = "slot_01" type = "button" img1 = "gameslot.png" img2 = "gameslot.png" x = "230" y = "120" z = "2"             anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "slot_02" type = "button" img1 = "gameslot.png" img2 = "gameslot.png" x = "360" y = "120" z = "2"             anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "trash_00" type = "button" img1 = "trash_button.png" img2 = "trash_button.png" x = "153" y = "110" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "trash_01" type = "button" img1 = "trash_button.png" img2 = "trash_button.png" x = "283" y = "110" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "trash_02" type = "button" img1 = "trash_button.png" img2 = "trash_button.png" x = "413" y = "110" z = "1" 
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "slot_00_percent" type = "label" x = "130" y = "105" z = "6"
+            anchor_x = "1" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "0%"
+            r = "252" g = "174" b = "66"></CONTROL>
+        
+        <CONTROL id = "slot_01_percent" type = "label" x = "260" y = "105" z = "6"
+            anchor_x = "1" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "0%"
+            r = "252" g = "174" b = "66"></CONTROL>
+        
+        <CONTROL id = "slot_02_percent" type = "label" x = "390" y = "105" z = "6"
+            anchor_x = "1" anchor_y = "0.5" fnt_file = "plump_20.fnt" default = "0%"
+            r = "252" g = "174" b = "66"></CONTROL>
+        
+        <CONTROL id = "slot_00_sprite" type = "label" x = "85" y = "129" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Slot A"
+            r = "252" g = "174" b = "66"></CONTROL>
+        
+        <CONTROL id = "slot_01_sprite" type = "label" x = "215" y = "129" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Slot B"
+            r = "252" g = "174" b = "66"></CONTROL>
+        
+        <CONTROL id = "slot_02_sprite" type = "label" x = "345" y = "129" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Slot C"
+            r = "252" g = "174" b = "66"></CONTROL>
+        
+        
+        <CONTROL id = "caution_bar" type = "sprite" img1 = "caution_bar.png" x = "240" y = "150" z = "10"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "480" height = "73"></CONTROL>
+        
+        <CONTROL id = "delete_yes" type = "button" img1 = "caution_bar_yes.png" img2 = "caution_bar_yes.png" x = "380" y = "142" z = "11" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "delete_no" type = "button" img1 = "caution_bar_no.png" img2 = "caution_bar_no.png" x = "440" y = "150" z = "11" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+
+        <CONTROL id = "menu1" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" x = "110" y = "290" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+        
+        <CONTROL id = "menu4" type = "button" img1 = "button_m2.png" img2 = "button_m2_pressed.png" x = "50" y = "290" z = "2" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5"></CONTROL>
+
+        
+        <CONTROL id = "icon_credit" type = "sprite" img1 = "icon_credit.png" x = "50" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        <CONTROL id = "icon_option_s" type = "sprite" img1 = "icon_option_s.png" x = "110" y = "290" z = "4" show_event = "action4"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "41" height = "40"></CONTROL>
+        
+        <CONTROL id = "iconname_credit" type = "label" x = "50" y = "260" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Credit"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        <CONTROL id = "iconname_option" type = "label" x = "110" y = "260" z = "6"
+            anchor_x = "0.5" anchor_y = "0.5" fnt_file = "dunkin_9.fnt" default = "Option"
+            r = "255" g = "255" b = "255"></CONTROL>
+        
+        
+        <CONTROL id = "game_title1" type = "sprite" img1 = "game_title1.png" x = "240" y = "210" z = "3"
+            anchor_x = "0.5" anchor_y = "0.5" u = "0" v = "0" width = "443" height = "137"></CONTROL>
+        
+    </Window>
+</WindowDataTemplate> 

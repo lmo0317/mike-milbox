@@ -1,0 +1,72 @@
+<AIData>
+    <AI>
+        <Name>DEFAULT</Name>
+        <STATE id = "PATROL" probability = "1" duration = "0" prefix = "1"> </STATE>
+        <BANISTER value = "1" ></BANISTER>
+    </AI>
+    <AI>
+        <Name>AI_0</Name><!-- 아무 행동도 하지 않음-->
+        <STATE id = "PATROL" probability = "0" duration = "0" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_1</Name><!-- 앞으로 전진, 부딛치면 뒤로 돌아감-->
+        <STATE id = "PATROL" probability = "1" duration = "0" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_2</Name><!-- 낭떠러지에서 뒤로 돌아감 -->
+        <STATE id = "PATROL" probability = "1" duration = "0" prefix = "1"> </STATE>
+        <BANISTER value = "1" ></BANISTER>
+    </AI>
+    <AI>
+        <Name>AI_3</Name><!-- .5초마다 점프하며 전진, 낭떠러지에서 뒤로 턴 -->
+        <STATE id = "JUMP_MOVE" probability = "1" duration = ".5" prefix = "1"> </STATE>
+        <BANISTER value = "1" ></BANISTER>
+    </AI>
+    <AI>
+        <Name>AI_CANNON1</Name><!-- 1초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "1" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_CANNON1_5</Name><!-- 1초마다 슛을 발사 확률 .5 -->
+        <STATE id = "ATTACK" probability = ".5" duration = "1" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_CANNON2</Name><!-- 2초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "2" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_CANNON3</Name><!-- 3초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "3" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_CANNON4</Name><!-- 4초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "4" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>FIRE</Name><!-- 4초마다 슛을 발사 -->
+        <STATE id = "STAY" probability = "1" duration = "0" prefix = "1"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_MUKIKI1</Name><!-- 1초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "16" prefix = "1"> </STATE>
+        <STATE id = "JUMP" probability = "1" duration = "1.2"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_M_CANNON1</Name><!-- 1초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "16" prefix = "1"> </STATE>
+        <STATE id = "JUMP" probability = "1" duration = "1.2"> </STATE>
+    </AI>
+    <AI>
+        <Name>AI_BALL1</Name><!-- 1초마다 슛을 발사 -->
+        <STATE id = "ATTACK" probability = "1" duration = "16" prefix = "1"> </STATE>
+        <STATE id = "JUMP" probability = "1" duration = "1.2"> </STATE>
+    </AI>
+    
+     
+</AIData> 
+
+<!--
+<STATE id = "ATTACK" probability = "1" duration = "1"> </STATE>
+<STATE id = "JUMP" probability = "1" duration = "0"> </STATE>
+<STATE id = "JUMP_MOVE" probability = "1" duration = "1"> </STATE>
+-->
