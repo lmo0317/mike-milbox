@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5F8A9C03155C038900474E6A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F8A9C02155C038900474E6A /* Cocoa.framework */; };
+		5F8A9C0D155C038900474E6A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5F8A9C0B155C038900474E6A /* InfoPlist.strings */; };
+		5F8A9C0F155C038900474E6A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A9C0E155C038900474E6A /* main.m */; };
+		5F8A9C13155C038900474E6A /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 5F8A9C11155C038900474E6A /* Credits.rtf */; };
+		5F8A9C16155C038900474E6A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A9C15155C038900474E6A /* AppDelegate.m */; };
+		5F8A9C19155C038900474E6A /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F8A9C17155C038900474E6A /* MainMenu.xib */; };
+		5F8A9C1C155C038A00474E6A /* convert_tool.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A9C1A155C038900474E6A /* convert_tool.xcdatamodeld */; };
+		5F8A9C2B155C03BC00474E6A /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A9C24155C03BC00474E6A /* NSDataAdditions.m */; };
+		5F8A9C2C155C03BC00474E6A /* FCEncryption.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5F8A9C28155C03BC00474E6A /* FCEncryption.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5F8A9BFE155C038900474E6A /* convert_tool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = convert_tool.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F8A9C02155C038900474E6A /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		5F8A9C05155C038900474E6A /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		5F8A9C06155C038900474E6A /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		5F8A9C07155C038900474E6A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5F8A9C0A155C038900474E6A /* convert_tool-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "convert_tool-Info.plist"; sourceTree = "<group>"; };
+		5F8A9C0C155C038900474E6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5F8A9C0E155C038900474E6A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5F8A9C10155C038900474E6A /* convert_tool-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "convert_tool-Prefix.pch"; sourceTree = "<group>"; };
+		5F8A9C12155C038900474E6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		5F8A9C14155C038900474E6A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5F8A9C15155C038900474E6A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5F8A9C18155C038900474E6A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		5F8A9C1B155C038900474E6A /* convert_tool.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = convert_tool.xcdatamodel; sourceTree = "<group>"; };
+		5F8A9C23155C03BC00474E6A /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDataAdditions.h; sourceTree = "<group>"; };
+		5F8A9C24155C03BC00474E6A /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDataAdditions.m; sourceTree = "<group>"; };
+		5F8A9C27155C03BC00474E6A /* FCEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCEncryption.h; sourceTree = "<group>"; };
+		5F8A9C28155C03BC00474E6A /* FCEncryption.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = FCEncryption.mm; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5F8A9BFB155C038900474E6A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F8A9C03155C038900474E6A /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5F8A9BF3155C038900474E6A = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C08155C038900474E6A /* convert_tool */,
+				5F8A9C01155C038900474E6A /* Frameworks */,
+				5F8A9BFF155C038900474E6A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5F8A9BFF155C038900474E6A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9BFE155C038900474E6A /* convert_tool.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F8A9C01155C038900474E6A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C02155C038900474E6A /* Cocoa.framework */,
+				5F8A9C04155C038900474E6A /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F8A9C04155C038900474E6A /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C05155C038900474E6A /* AppKit.framework */,
+				5F8A9C06155C038900474E6A /* CoreData.framework */,
+				5F8A9C07155C038900474E6A /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		5F8A9C08155C038900474E6A /* convert_tool */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C22155C03BC00474E6A /* Encryption */,
+				5F8A9C25155C03BC00474E6A /* iFeather */,
+				5F8A9C29155C03BC00474E6A /* ZipArchive */,
+				5F8A9C14155C038900474E6A /* AppDelegate.h */,
+				5F8A9C15155C038900474E6A /* AppDelegate.m */,
+				5F8A9C17155C038900474E6A /* MainMenu.xib */,
+				5F8A9C1A155C038900474E6A /* convert_tool.xcdatamodeld */,
+				5F8A9C09155C038900474E6A /* Supporting Files */,
+			);
+			path = convert_tool;
+			sourceTree = "<group>";
+		};
+		5F8A9C09155C038900474E6A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C0A155C038900474E6A /* convert_tool-Info.plist */,
+				5F8A9C0B155C038900474E6A /* InfoPlist.strings */,
+				5F8A9C0E155C038900474E6A /* main.m */,
+				5F8A9C10155C038900474E6A /* convert_tool-Prefix.pch */,
+				5F8A9C11155C038900474E6A /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5F8A9C22155C03BC00474E6A /* Encryption */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C23155C03BC00474E6A /* NSDataAdditions.h */,
+				5F8A9C24155C03BC00474E6A /* NSDataAdditions.m */,
+			);
+			path = Encryption;
+			sourceTree = "<group>";
+		};
+		5F8A9C25155C03BC00474E6A /* iFeather */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C26155C03BC00474E6A /* FCEncryption */,
+			);
+			path = iFeather;
+			sourceTree = "<group>";
+		};
+		5F8A9C26155C03BC00474E6A /* FCEncryption */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C27155C03BC00474E6A /* FCEncryption.h */,
+				5F8A9C28155C03BC00474E6A /* FCEncryption.mm */,
+			);
+			path = FCEncryption;
+			sourceTree = "<group>";
+		};
+		5F8A9C29155C03BC00474E6A /* ZipArchive */ = {
+			isa = PBXGroup;
+			children = (
+				5F8A9C2A155C03BC00474E6A /* minizip */,
+			);
+			path = ZipArchive;
+			sourceTree = "<group>";
+		};
+		5F8A9C2A155C03BC00474E6A /* minizip */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = minizip;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5F8A9BFD155C038900474E6A /* convert_tool */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F8A9C1F155C038A00474E6A /* Build configuration list for PBXNativeTarget "convert_tool" */;
+			buildPhases = (
+				5F8A9BFA155C038900474E6A /* Sources */,
+				5F8A9BFB155C038900474E6A /* Frameworks */,
+				5F8A9BFC155C038900474E6A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = convert_tool;
+			productName = convert_tool;
+			productReference = 5F8A9BFE155C038900474E6A /* convert_tool.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5F8A9BF5155C038900474E6A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 5F8A9BF8155C038900474E6A /* Build configuration list for PBXProject "convert_tool" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5F8A9BF3155C038900474E6A;
+			productRefGroup = 5F8A9BFF155C038900474E6A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5F8A9BFD155C038900474E6A /* convert_tool */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5F8A9BFC155C038900474E6A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F8A9C0D155C038900474E6A /* InfoPlist.strings in Resources */,
+				5F8A9C13155C038900474E6A /* Credits.rtf in Resources */,
+				5F8A9C19155C038900474E6A /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5F8A9BFA155C038900474E6A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F8A9C0F155C038900474E6A /* main.m in Sources */,
+				5F8A9C16155C038900474E6A /* AppDelegate.m in Sources */,
+				5F8A9C1C155C038A00474E6A /* convert_tool.xcdatamodeld in Sources */,
+				5F8A9C2B155C03BC00474E6A /* NSDataAdditions.m in Sources */,
+				5F8A9C2C155C03BC00474E6A /* FCEncryption.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5F8A9C0B155C038900474E6A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F8A9C0C155C038900474E6A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5F8A9C11155C038900474E6A /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F8A9C12155C038900474E6A /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		5F8A9C17155C038900474E6A /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5F8A9C18155C038900474E6A /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5F8A9C1D155C038A00474E6A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5F8A9C1E155C038A00474E6A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5F8A9C20155C038A00474E6A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "convert_tool/convert_tool-Prefix.pch";
+				INFOPLIST_FILE = "convert_tool/convert_tool-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5F8A9C21155C038A00474E6A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "convert_tool/convert_tool-Prefix.pch";
+				INFOPLIST_FILE = "convert_tool/convert_tool-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5F8A9BF8155C038900474E6A /* Build configuration list for PBXProject "convert_tool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F8A9C1D155C038A00474E6A /* Debug */,
+				5F8A9C1E155C038A00474E6A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5F8A9C1F155C038A00474E6A /* Build configuration list for PBXNativeTarget "convert_tool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F8A9C20155C038A00474E6A /* Debug */,
+				5F8A9C21155C038A00474E6A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		5F8A9C1A155C038900474E6A /* convert_tool.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				5F8A9C1B155C038900474E6A /* convert_tool.xcdatamodel */,
+			);
+			currentVersion = 5F8A9C1B155C038900474E6A /* convert_tool.xcdatamodel */;
+			path = convert_tool.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 5F8A9BF5155C038900474E6A /* Project object */;
+}
