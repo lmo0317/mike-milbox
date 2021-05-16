@@ -28,7 +28,7 @@ platform : IOS
 
 ## **상세 설명**
 
-[##_Image|kage@oD1wY/btq4bBXPFRN/DHUCcTrGmDo96iR4ugPd11/img.jpg|widthContent|data-filename="mza_2143711366904619742.320x480-75.jpg" data-origin-width="480" data-origin-height="320" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoD1wY%2Fbtq4bBXPFRN%2FDHUCcTrGmDo96iR4ugPd11%2Fimg.jpg)
 
 -   게임 시작 화면
 -   slot별 게임 저장 기능 구현
@@ -36,7 +36,7 @@ platform : IOS
 
 ---
 
-[##_Image|kage@CjApe/btq4c12joFo/ax0M6kydxi1h1Q1xJXkI51/img.png|alignCenter|data-filename="IMG_0759.PNG" data-origin-width="960" data-origin-height="640" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCjApe%2Fbtq4c12joFo%2Fax0M6kydxi1h1Q1xJXkI51%2Fimg.png)
 
 -   Stage / Chapter 구현
 -   스테이지 클리어후 다음 스테이지 오픈 기능 구현
@@ -44,7 +44,7 @@ platform : IOS
 
 ---
 
-[##_Image|kage@zHfd0/btq4djuUyCI/cP91Un6peFfgNV2jOW982k/img.jpg|widthContent|data-filename="mza_2571814320341002086.320x480-75.jpg" data-origin-width="480" data-origin-height="320" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzHfd0%2Fbtq4djuUyCI%2FcP91Un6peFfgNV2jOW982k%2Fimg.jpg)
 
 -   Life / HP 구현
 -   코인 획득 기능 구현
@@ -53,7 +53,7 @@ platform : IOS
 
 ---
 
-[##_Image|kage@dPMK2j/btq4bn6BCjA/F8IakKPYw5PZk7wqIAM5r1/img.jpg|widthContent|data-filename="mza_5394513806423232766.320x480-75 (1).jpg" data-origin-width="480" data-origin-height="320" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdPMK2j%2Fbtq4bn6BCjA%2FF8IakKPYw5PZk7wqIAM5r1%2Fimg.jpg)
 
 -   조이 패드 기능 구현 (좌/우, 점프)
 -   상호작용 물리작용 오브젝트 추가
@@ -61,14 +61,14 @@ platform : IOS
 
 ---
 
-[##_Image|kage@bMeE9s/btq4eiI5KPY/i3L9bLz3tnr8rJ1eNA1ts0/img.jpg|widthContent|data-filename="2L0gN95PoiBYe7LjMi3VH0-temp-upload.pgqsgqzb.480x480-75.jpg" data-origin-width="480" data-origin-height="320" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMeE9s%2Fbtq4eiI5KPY%2Fi3L9bLz3tnr8rJ1eNA1ts0%2Fimg.jpg)
 
 -   몬스터 추가
 -   몬스터 AI 추가
 
 ---
 
-[##_Image|kage@89fQx/btq4aZrmqD7/sGLZNKtge6jpkv6Xj4HHC1/img.jpg|widthContent|data-filename="201207270434273547.png" data-origin-width="600" data-origin-height="450" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F89fQx%2Fbtq4aZrmqD7%2FsGLZNKtge6jpkv6Xj4HHC1%2Fimg.jpg)
 
 -   게임 종료 화면
 -   게임 다시 시작 / 다음 스테이지 / 스테이지 선택화면 구현
@@ -79,13 +79,13 @@ platform : IOS
 
 ---
 
-[##_Image|kage@dHsm9A/btq4cf04CRe/ahXRKHkQcP0hghKi682gKk/img.png|alignCenter|data-filename="IMG_0757.PNG" data-origin-width="960" data-origin-height="640" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdHsm9A%2Fbtq4cf04CRe%2FahXRKHkQcP0hghKi682gKk%2Fimg.png)
 
 -   포탈 기능 구현
     -   해당 포탈에 들어가면 정해진 다른 포탈로 나오게 되는 기능
 
 ---
 
-[##_Image|kage@S48Wg/btq4cvbzMKM/d4tSAJMHKIsvXqqlok5H80/img.png|widthContent|data-origin-width="723" data-origin-height="643" data-ke-mobilestyle="widthContent"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FS48Wg%2Fbtq4cvbzMKM%2Fd4tSAJMHKIsvXqqlok5H80%2Fimg.png)
 
 -   216,455 다운 로드 달성
